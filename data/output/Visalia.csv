@@ -1,0 +1,1217 @@
+,City,Date,Daily Mean PM2.5 Concentration,State,Local Site Name,0 filters,10 filters,100 filters,1000 filters
+0,Visalia,01/01/2025,2.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.9,2.8776699999999997,2.73412,2.22981
+1,Visalia,01/02/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+2,Visalia,01/03/2025,3.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.7,3.67151,3.48836,2.84493
+3,Visalia,01/04/2025,3.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.2,3.17536,3.01696,2.4604800000000004
+4,Visalia,01/05/2025,3.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.4,3.37382,3.20552,2.61426
+5,Visalia,01/06/2025,3.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.9,3.86997,3.67692,2.99871
+6,Visalia,01/07/2025,8.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.0,7.9384,7.5424,6.1512
+7,Visalia,01/08/2025,-0.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.2,-0.19846,-0.18856,-0.15378000000000003
+8,Visalia,01/09/2025,-0.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.7,-0.69461,-0.65996,-0.53823
+9,Visalia,01/10/2025,-1.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,-1.0,-0.9923,-0.9428,-0.7689
+10,Visalia,01/11/2025,2.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.2,2.1830600000000002,2.07416,1.6915800000000003
+11,Visalia,01/12/2025,1.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.3,1.28999,1.22564,0.9995700000000001
+12,Visalia,01/13/2025,1.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.9,1.8853699999999998,1.7913199999999998,1.46091
+13,Visalia,01/14/2025,-0.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.2,-0.19846,-0.18856,-0.15378000000000003
+14,Visalia,01/15/2025,0.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.0,0.0,0.0,0.0
+15,Visalia,01/16/2025,-0.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.2,-0.19846,-0.18856,-0.15378000000000003
+16,Visalia,01/17/2025,4.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.1,4.068429999999999,3.8654799999999994,3.15249
+17,Visalia,01/18/2025,5.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.3,5.259189999999999,4.99684,4.07517
+18,Visalia,01/19/2025,9.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.6,9.526079999999999,9.05088,7.38144
+19,Visalia,01/20/2025,11.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,11.8,11.70914,11.12504,9.073020000000001
+20,Visalia,01/21/2025,7.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.7,7.6407099999999994,7.25956,5.92053
+21,Visalia,01/22/2025,7.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.4,7.34302,6.97672,5.68986
+22,Visalia,01/23/2025,1.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.3,1.28999,1.22564,0.9995700000000001
+23,Visalia,01/24/2025,-0.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.8,-0.79384,-0.75424,-0.6151200000000001
+24,Visalia,01/25/2025,2.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.1,2.08383,1.97988,1.6146900000000002
+25,Visalia,01/26/2025,1.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.7,1.68691,1.60276,1.30713
+26,Visalia,01/27/2025,1.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.0,0.9923,0.9428,0.7689
+27,Visalia,01/28/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+28,Visalia,01/29/2025,2.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.4,2.3815199999999996,2.26272,1.84536
+29,Visalia,01/30/2025,5.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.6,5.55688,5.27968,4.30584
+30,Visalia,01/31/2025,8.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.3,8.23609,7.825240000000001,6.381870000000001
+31,Visalia,02/01/2025,6.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.7,6.64841,6.31676,5.15163
+32,Visalia,02/02/2025,-0.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.4,-0.39692,-0.37712,-0.30756000000000006
+33,Visalia,02/03/2025,1.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.0,0.9923,0.9428,0.7689
+34,Visalia,02/04/2025,0.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.8,0.79384,0.75424,0.6151200000000001
+35,Visalia,02/05/2025,-2.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,-2.2,-2.1830600000000002,-2.07416,-1.6915800000000003
+36,Visalia,02/06/2025,-1.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,-1.6,-1.58768,-1.50848,-1.2302400000000002
+37,Visalia,02/07/2025,-1.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,-1.4,-1.38922,-1.31992,-1.07646
+38,Visalia,02/08/2025,2.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.2,2.1830600000000002,2.07416,1.6915800000000003
+39,Visalia,02/09/2025,4.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.0,3.9692,3.7712,3.0756
+40,Visalia,02/10/2025,4.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.2,4.16766,3.95976,3.2293800000000004
+41,Visalia,02/11/2025,7.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.7,7.6407099999999994,7.25956,5.92053
+42,Visalia,02/12/2025,1.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.7,1.68691,1.60276,1.30713
+43,Visalia,02/13/2025,-2.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,-2.4,-2.3815199999999996,-2.26272,-1.84536
+44,Visalia,02/14/2025,-1.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,-1.0,-0.9923,-0.9428,-0.7689
+45,Visalia,02/15/2025,0.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.0,0.0,0.0,0.0
+46,Visalia,02/16/2025,1.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.4,1.38922,1.31992,1.07646
+47,Visalia,02/17/2025,3.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.8,3.7707399999999995,3.5826399999999996,2.92182
+48,Visalia,02/18/2025,2.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.8,2.77844,2.63984,2.15292
+49,Visalia,02/19/2025,0.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.3,0.29768999999999995,0.28284,0.23067
+50,Visalia,02/20/2025,1.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.9,1.8853699999999998,1.7913199999999998,1.46091
+51,Visalia,02/21/2025,2.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.0,1.9846,1.8856,1.5378
+52,Visalia,02/22/2025,0.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.0,0.0,0.0,0.0
+53,Visalia,02/23/2025,0.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.9,0.89307,0.8485199999999999,0.69201
+54,Visalia,02/24/2025,2.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.3,2.2822899999999997,2.16844,1.76847
+55,Visalia,02/25/2025,4.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.3,4.26689,4.05404,3.30627
+56,Visalia,02/26/2025,1.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.1,1.0915300000000001,1.03708,0.8457900000000002
+57,Visalia,02/27/2025,0.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.2,0.19846,0.18856,0.15378000000000003
+58,Visalia,02/28/2025,0.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.0,0.0,0.0,0.0
+59,Visalia,03/01/2025,3.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.0,2.9768999999999997,2.8284,2.3067
+60,Visalia,03/02/2025,0.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.8,0.79384,0.75424,0.6151200000000001
+61,Visalia,03/03/2025,-0.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.9,-0.89307,-0.8485199999999999,-0.69201
+62,Visalia,03/04/2025,-0.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.3,-0.29768999999999995,-0.28284,-0.23067
+63,Visalia,03/05/2025,-1.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,-1.0,-0.9923,-0.9428,-0.7689
+64,Visalia,03/06/2025,-0.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.6,-0.5953799999999999,-0.56568,-0.46134
+65,Visalia,03/07/2025,0.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.4,0.39692,0.37712,0.30756000000000006
+66,Visalia,03/08/2025,0.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.9,0.89307,0.8485199999999999,0.69201
+67,Visalia,03/09/2025,-0.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.2,-0.19846,-0.18856,-0.15378000000000003
+68,Visalia,03/10/2025,0.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.1,0.09923,0.09428,0.07689000000000001
+69,Visalia,03/11/2025,1.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.2,1.1907599999999998,1.13136,0.92268
+70,Visalia,03/12/2025,0.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.1,0.09923,0.09428,0.07689000000000001
+71,Visalia,03/13/2025,-0.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.6,-0.5953799999999999,-0.56568,-0.46134
+72,Visalia,03/14/2025,-0.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.6,-0.5953799999999999,-0.56568,-0.46134
+73,Visalia,03/15/2025,1.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.0,0.9923,0.9428,0.7689
+74,Visalia,03/16/2025,0.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.7,0.69461,0.65996,0.53823
+75,Visalia,03/17/2025,0.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.3,0.29768999999999995,0.28284,0.23067
+76,Visalia,03/18/2025,-0.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.1,-0.09923,-0.09428,-0.07689000000000001
+77,Visalia,03/19/2025,0.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.5,0.49615,0.4714,0.38445
+78,Visalia,03/20/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+79,Visalia,03/21/2025,3.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.5,3.4730499999999997,3.2998,2.69115
+80,Visalia,03/22/2025,4.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.3,4.26689,4.05404,3.30627
+81,Visalia,03/23/2025,4.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.7,4.66381,4.43116,3.61383
+82,Visalia,03/24/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+83,Visalia,03/25/2025,0.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.2,0.19846,0.18856,0.15378000000000003
+84,Visalia,03/26/2025,1.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.7,1.68691,1.60276,1.30713
+85,Visalia,03/27/2025,1.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.2,1.1907599999999998,1.13136,0.92268
+86,Visalia,03/28/2025,0.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.7,0.69461,0.65996,0.53823
+87,Visalia,03/29/2025,1.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.9,1.8853699999999998,1.7913199999999998,1.46091
+88,Visalia,03/30/2025,0.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.9,0.89307,0.8485199999999999,0.69201
+89,Visalia,03/31/2025,0.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.0,0.0,0.0,0.0
+90,Visalia,04/01/2025,0.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.2,0.19846,0.18856,0.15378000000000003
+91,Visalia,04/02/2025,-1.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,-1.0,-0.9923,-0.9428,-0.7689
+92,Visalia,04/03/2025,-0.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.1,-0.09923,-0.09428,-0.07689000000000001
+93,Visalia,04/04/2025,1.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.7,1.68691,1.60276,1.30713
+94,Visalia,04/05/2025,1.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.5,1.4884499999999998,1.4142,1.15335
+95,Visalia,04/06/2025,2.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.2,2.1830600000000002,2.07416,1.6915800000000003
+96,Visalia,04/07/2025,3.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.2,3.17536,3.01696,2.4604800000000004
+97,Visalia,04/08/2025,6.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.8,6.74764,6.41104,5.22852
+98,Visalia,04/09/2025,9.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.3,9.228390000000001,8.768040000000001,7.1507700000000005
+99,Visalia,04/10/2025,9.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.1,9.029929999999998,8.57948,6.99699
+100,Visalia,04/11/2025,9.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.5,9.42685,8.9566,7.30455
+101,Visalia,04/12/2025,9.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.3,9.228390000000001,8.768040000000001,7.1507700000000005
+102,Visalia,04/13/2025,7.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.5,7.44225,7.071,5.76675
+103,Visalia,04/14/2025,6.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.6,6.54918,6.222479999999999,5.07474
+104,Visalia,04/15/2025,8.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.2,8.136859999999999,7.730959999999999,6.30498
+105,Visalia,04/16/2025,9.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.7,9.625309999999999,9.145159999999999,7.45833
+106,Visalia,04/17/2025,5.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.7,5.65611,5.37396,4.3827300000000005
+107,Visalia,04/18/2025,6.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.8,6.74764,6.41104,5.22852
+108,Visalia,04/19/2025,5.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.0,4.9615,4.7139999999999995,3.8445
+109,Visalia,04/20/2025,7.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.0,6.9460999999999995,6.5996,5.3823
+110,Visalia,04/21/2025,8.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.0,7.9384,7.5424,6.1512
+111,Visalia,04/22/2025,6.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.5,6.449949999999999,6.1282,4.997850000000001
+112,Visalia,04/23/2025,6.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.8,6.74764,6.41104,5.22852
+113,Visalia,04/24/2025,7.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.2,7.14456,6.7881599999999995,5.53608
+114,Visalia,04/25/2025,5.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.7,5.65611,5.37396,4.3827300000000005
+115,Visalia,04/26/2025,1.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.0,0.9923,0.9428,0.7689
+116,Visalia,04/27/2025,1.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.3,1.28999,1.22564,0.9995700000000001
+117,Visalia,04/28/2025,2.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.4,2.3815199999999996,2.26272,1.84536
+118,Visalia,04/29/2025,4.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.1,4.068429999999999,3.8654799999999994,3.15249
+119,Visalia,04/30/2025,6.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.6,6.54918,6.222479999999999,5.07474
+120,Visalia,05/01/2025,5.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.5,5.45765,5.1854,4.22895
+121,Visalia,05/02/2025,5.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.1,5.0607299999999995,4.80828,3.9213899999999997
+122,Visalia,05/03/2025,5.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.3,5.259189999999999,4.99684,4.07517
+123,Visalia,05/04/2025,5.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.2,5.15996,4.90256,3.9982800000000003
+124,Visalia,05/05/2025,4.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.7,4.66381,4.43116,3.61383
+125,Visalia,05/06/2025,3.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.8,3.7707399999999995,3.5826399999999996,2.92182
+126,Visalia,05/07/2025,6.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.4,6.35072,6.03392,4.920960000000001
+127,Visalia,05/08/2025,8.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.9,8.83147,8.39092,6.843210000000001
+128,Visalia,05/09/2025,6.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.2,6.15226,5.84536,4.767180000000001
+129,Visalia,05/10/2025,3.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.4,3.37382,3.20552,2.61426
+130,Visalia,05/11/2025,4.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.9,4.8622700000000005,4.61972,3.7676100000000003
+131,Visalia,05/12/2025,3.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.7,3.67151,3.48836,2.84493
+132,Visalia,05/13/2025,2.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.6,2.57998,2.45128,1.9991400000000001
+133,Visalia,05/14/2025,1.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.3,1.28999,1.22564,0.9995700000000001
+134,Visalia,05/15/2025,3.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.7,3.67151,3.48836,2.84493
+135,Visalia,05/16/2025,4.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.2,4.16766,3.95976,3.2293800000000004
+136,Visalia,05/17/2025,5.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.1,5.0607299999999995,4.80828,3.9213899999999997
+137,Visalia,05/18/2025,3.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.9,3.86997,3.67692,2.99871
+138,Visalia,05/19/2025,5.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.6,5.55688,5.27968,4.30584
+139,Visalia,05/20/2025,6.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.3,6.2514899999999995,5.93964,4.84407
+140,Visalia,05/21/2025,7.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.0,6.9460999999999995,6.5996,5.3823
+141,Visalia,05/22/2025,7.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.1,7.045329999999999,6.693879999999999,5.4591899999999995
+142,Visalia,05/23/2025,3.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.6,3.57228,3.3940799999999998,2.76804
+143,Visalia,05/24/2025,4.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.6,4.564579999999999,4.33688,3.53694
+144,Visalia,05/25/2025,6.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.2,6.15226,5.84536,4.767180000000001
+145,Visalia,05/26/2025,5.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.8,5.7553399999999995,5.46824,4.45962
+146,Visalia,05/27/2025,6.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.2,6.15226,5.84536,4.767180000000001
+147,Visalia,05/28/2025,7.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.7,7.6407099999999994,7.25956,5.92053
+148,Visalia,05/29/2025,8.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.0,7.9384,7.5424,6.1512
+149,Visalia,05/30/2025,7.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.8,7.73994,7.35384,5.99742
+150,Visalia,05/31/2025,8.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.6,8.53378,8.10808,6.61254
+151,Visalia,06/01/2025,15.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,15.6,15.47988,14.70768,11.99484
+152,Visalia,06/02/2025,8.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.1,8.03763,7.636679999999999,6.22809
+153,Visalia,06/03/2025,7.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.7,7.6407099999999994,7.25956,5.92053
+154,Visalia,06/04/2025,9.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.4,9.32762,8.86232,7.22766
+155,Visalia,06/05/2025,7.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.8,7.73994,7.35384,5.99742
+156,Visalia,06/06/2025,8.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.5,8.43455,8.0138,6.53565
+157,Visalia,06/07/2025,9.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.3,9.228390000000001,8.768040000000001,7.1507700000000005
+158,Visalia,06/08/2025,9.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.0,8.9307,8.485199999999999,6.920100000000001
+159,Visalia,06/09/2025,9.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.8,9.724540000000001,9.23944,7.535220000000001
+160,Visalia,06/10/2025,10.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,10.2,10.121459999999999,9.61656,7.842779999999999
+161,Visalia,06/11/2025,9.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.5,9.42685,8.9566,7.30455
+162,Visalia,06/12/2025,7.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.3,7.24379,6.88244,5.61297
+163,Visalia,06/13/2025,6.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.9,6.84687,6.50532,5.30541
+164,Visalia,06/14/2025,6.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.4,6.35072,6.03392,4.920960000000001
+165,Visalia,06/15/2025,6.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.5,6.449949999999999,6.1282,4.997850000000001
+166,Visalia,06/16/2025,6.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.2,6.15226,5.84536,4.767180000000001
+167,Visalia,06/17/2025,5.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.5,5.45765,5.1854,4.22895
+168,Visalia,06/18/2025,8.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.5,8.43455,8.0138,6.53565
+169,Visalia,06/19/2025,8.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.3,8.23609,7.825240000000001,6.381870000000001
+170,Visalia,06/20/2025,3.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.9,3.86997,3.67692,2.99871
+171,Visalia,06/21/2025,3.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.8,3.7707399999999995,3.5826399999999996,2.92182
+172,Visalia,06/22/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+173,Visalia,06/23/2025,3.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.3,3.27459,3.1112399999999996,2.53737
+174,Visalia,06/24/2025,6.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.6,6.54918,6.222479999999999,5.07474
+175,Visalia,06/25/2025,7.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.9,7.83917,7.44812,6.0743100000000005
+176,Visalia,06/26/2025,8.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.7,8.633009999999999,8.202359999999999,6.68943
+177,Visalia,06/27/2025,10.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,10.5,10.41915,9.8994,8.073450000000001
+178,Visalia,06/28/2025,9.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.8,9.724540000000001,9.23944,7.535220000000001
+179,Visalia,06/29/2025,8.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.0,7.9384,7.5424,6.1512
+180,Visalia,06/30/2025,5.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.7,5.65611,5.37396,4.3827300000000005
+181,Visalia,07/01/2025,6.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.3,6.2514899999999995,5.93964,4.84407
+182,Visalia,07/02/2025,6.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.1,6.05303,5.751079999999999,4.69029
+183,Visalia,07/03/2025,5.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.7,5.65611,5.37396,4.3827300000000005
+184,Visalia,07/04/2025,4.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.5,4.46535,4.2425999999999995,3.4600500000000003
+185,Visalia,07/05/2025,5.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.2,5.15996,4.90256,3.9982800000000003
+186,Visalia,07/06/2025,6.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.4,6.35072,6.03392,4.920960000000001
+187,Visalia,07/07/2025,5.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.4,5.35842,5.09112,4.1520600000000005
+188,Visalia,07/08/2025,4.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.1,4.068429999999999,3.8654799999999994,3.15249
+189,Visalia,07/09/2025,6.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.4,6.35072,6.03392,4.920960000000001
+190,Visalia,07/10/2025,7.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.9,7.83917,7.44812,6.0743100000000005
+191,Visalia,07/11/2025,10.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,10.0,9.923,9.427999999999999,7.689
+192,Visalia,07/12/2025,11.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,11.0,10.9153,10.3708,8.4579
+193,Visalia,07/13/2025,12.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,12.9,12.80067,12.16212,9.91881
+194,Visalia,07/14/2025,13.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,13.3,13.19759,12.53924,10.226370000000001
+195,Visalia,07/15/2025,12.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,12.3,12.20529,11.596440000000001,9.45747
+196,Visalia,07/16/2025,8.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.5,8.43455,8.0138,6.53565
+197,Visalia,07/17/2025,8.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.5,8.43455,8.0138,6.53565
+198,Visalia,07/18/2025,8.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.7,8.633009999999999,8.202359999999999,6.68943
+199,Visalia,07/19/2025,8.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.5,8.43455,8.0138,6.53565
+200,Visalia,07/20/2025,8.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.2,8.136859999999999,7.730959999999999,6.30498
+201,Visalia,07/21/2025,6.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.7,6.64841,6.31676,5.15163
+202,Visalia,07/22/2025,5.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.0,4.9615,4.7139999999999995,3.8445
+203,Visalia,07/23/2025,4.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.5,4.46535,4.2425999999999995,3.4600500000000003
+204,Visalia,07/24/2025,5.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.2,5.15996,4.90256,3.9982800000000003
+205,Visalia,07/25/2025,5.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.0,4.9615,4.7139999999999995,3.8445
+206,Visalia,07/26/2025,5.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.4,5.35842,5.09112,4.1520600000000005
+207,Visalia,07/27/2025,4.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.7,4.66381,4.43116,3.61383
+208,Visalia,07/28/2025,4.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.9,4.8622700000000005,4.61972,3.7676100000000003
+209,Visalia,07/29/2025,7.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.0,6.9460999999999995,6.5996,5.3823
+210,Visalia,07/30/2025,5.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.1,5.0607299999999995,4.80828,3.9213899999999997
+211,Visalia,07/31/2025,4.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.8,4.763039999999999,4.52544,3.69072
+212,Visalia,08/01/2025,5.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.1,5.0607299999999995,4.80828,3.9213899999999997
+213,Visalia,08/02/2025,7.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.4,7.34302,6.97672,5.68986
+214,Visalia,08/03/2025,6.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.1,6.05303,5.751079999999999,4.69029
+215,Visalia,08/04/2025,4.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.5,4.46535,4.2425999999999995,3.4600500000000003
+216,Visalia,08/05/2025,5.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.5,5.45765,5.1854,4.22895
+217,Visalia,08/06/2025,5.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.3,5.259189999999999,4.99684,4.07517
+218,Visalia,08/07/2025,5.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.6,5.55688,5.27968,4.30584
+219,Visalia,08/08/2025,7.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.7,7.6407099999999994,7.25956,5.92053
+220,Visalia,08/09/2025,14.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,14.6,14.48758,13.76488,11.22594
+221,Visalia,08/10/2025,12.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,12.3,12.20529,11.596440000000001,9.45747
+222,Visalia,08/11/2025,12.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,12.0,11.907599999999999,11.3136,9.2268
+223,Visalia,08/12/2025,10.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,10.8,10.71684,10.18224,8.304120000000001
+224,Visalia,08/13/2025,8.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.7,8.633009999999999,8.202359999999999,6.68943
+225,Visalia,08/14/2025,6.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.3,6.2514899999999995,5.93964,4.84407
+226,Visalia,08/15/2025,6.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.2,6.15226,5.84536,4.767180000000001
+227,Visalia,08/16/2025,5.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.5,5.45765,5.1854,4.22895
+228,Visalia,08/17/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+229,Visalia,08/18/2025,4.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.3,4.26689,4.05404,3.30627
+230,Visalia,08/19/2025,5.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.2,5.15996,4.90256,3.9982800000000003
+231,Visalia,08/20/2025,6.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.2,6.15226,5.84536,4.767180000000001
+232,Visalia,08/21/2025,5.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.5,5.45765,5.1854,4.22895
+233,Visalia,08/22/2025,7.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.8,7.73994,7.35384,5.99742
+234,Visalia,08/23/2025,5.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.5,5.45765,5.1854,4.22895
+235,Visalia,08/24/2025,5.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.8,5.7553399999999995,5.46824,4.45962
+236,Visalia,08/25/2025,4.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.5,4.46535,4.2425999999999995,3.4600500000000003
+237,Visalia,08/26/2025,5.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.9,5.85457,5.56252,4.536510000000001
+238,Visalia,08/27/2025,4.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.5,4.46535,4.2425999999999995,3.4600500000000003
+239,Visalia,08/28/2025,10.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,10.2,10.121459999999999,9.61656,7.842779999999999
+240,Visalia,08/29/2025,20.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,20.4,20.242919999999998,19.23312,15.685559999999999
+241,Visalia,08/30/2025,18.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,18.6,18.456780000000002,17.536080000000002,14.301540000000001
+242,Visalia,08/31/2025,13.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,13.4,13.29682,12.63352,10.30326
+243,Visalia,09/01/2025,4.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.4,4.3661200000000004,4.14832,3.3831600000000006
+244,Visalia,09/02/2025,5.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.2,5.15996,4.90256,3.9982800000000003
+245,Visalia,09/03/2025,10.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,10.0,9.923,9.427999999999999,7.689
+246,Visalia,09/04/2025,12.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,12.0,11.907599999999999,11.3136,9.2268
+247,Visalia,09/05/2025,12.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,12.4,12.30452,11.69072,9.534360000000001
+248,Visalia,09/06/2025,8.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.9,8.83147,8.39092,6.843210000000001
+249,Visalia,09/07/2025,5.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.7,5.65611,5.37396,4.3827300000000005
+250,Visalia,09/08/2025,4.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.2,4.16766,3.95976,3.2293800000000004
+251,Visalia,09/09/2025,5.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.0,4.9615,4.7139999999999995,3.8445
+252,Visalia,09/10/2025,2.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.9,2.8776699999999997,2.73412,2.22981
+253,Visalia,09/11/2025,3.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.1,3.07613,2.92268,2.3835900000000003
+254,Visalia,09/12/2025,5.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.2,5.15996,4.90256,3.9982800000000003
+255,Visalia,09/13/2025,9.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.9,9.82377,9.33372,7.61211
+256,Visalia,09/14/2025,9.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.6,9.526079999999999,9.05088,7.38144
+257,Visalia,09/15/2025,7.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.7,7.6407099999999994,7.25956,5.92053
+258,Visalia,09/16/2025,4.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.7,4.66381,4.43116,3.61383
+259,Visalia,09/17/2025,5.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.2,5.15996,4.90256,3.9982800000000003
+260,Visalia,09/18/2025,7.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.1,7.045329999999999,6.693879999999999,5.4591899999999995
+261,Visalia,09/19/2025,6.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.7,6.64841,6.31676,5.15163
+262,Visalia,09/20/2025,8.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,8.6,8.53378,8.10808,6.61254
+263,Visalia,09/21/2025,6.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.5,6.449949999999999,6.1282,4.997850000000001
+264,Visalia,09/22/2025,7.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.4,7.34302,6.97672,5.68986
+265,Visalia,09/23/2025,5.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.7,5.65611,5.37396,4.3827300000000005
+266,Visalia,09/24/2025,4.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.6,4.564579999999999,4.33688,3.53694
+267,Visalia,09/25/2025,3.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.3,3.27459,3.1112399999999996,2.53737
+268,Visalia,09/26/2025,2.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.8,2.77844,2.63984,2.15292
+269,Visalia,09/27/2025,1.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.4,1.38922,1.31992,1.07646
+270,Visalia,09/28/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+271,Visalia,09/29/2025,5.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.5,5.45765,5.1854,4.22895
+272,Visalia,09/30/2025,4.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.0,3.9692,3.7712,3.0756
+273,Visalia,10/01/2025,3.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.5,3.4730499999999997,3.2998,2.69115
+274,Visalia,10/02/2025,3.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.6,3.57228,3.3940799999999998,2.76804
+275,Visalia,10/03/2025,0.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.5,0.49615,0.4714,0.38445
+276,Visalia,10/04/2025,0.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.2,0.19846,0.18856,0.15378000000000003
+277,Visalia,10/05/2025,0.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.9,0.89307,0.8485199999999999,0.69201
+278,Visalia,10/06/2025,1.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.7,1.68691,1.60276,1.30713
+279,Visalia,10/07/2025,1.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.4,1.38922,1.31992,1.07646
+280,Visalia,10/08/2025,2.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.1,2.08383,1.97988,1.6146900000000002
+281,Visalia,10/09/2025,5.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.2,5.15996,4.90256,3.9982800000000003
+282,Visalia,10/10/2025,5.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.1,5.0607299999999995,4.80828,3.9213899999999997
+283,Visalia,10/11/2025,3.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.6,3.57228,3.3940799999999998,2.76804
+284,Visalia,10/12/2025,-0.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.3,-0.29768999999999995,-0.28284,-0.23067
+285,Visalia,10/13/2025,0.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.1,0.09923,0.09428,0.07689000000000001
+286,Visalia,10/14/2025,-0.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.3,-0.29768999999999995,-0.28284,-0.23067
+287,Visalia,10/15/2025,-0.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.5,-0.49615,-0.4714,-0.38445
+288,Visalia,10/16/2025,1.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.7,1.68691,1.60276,1.30713
+289,Visalia,10/17/2025,3.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.2,3.17536,3.01696,2.4604800000000004
+290,Visalia,10/18/2025,1.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.3,1.28999,1.22564,0.9995700000000001
+291,Visalia,10/19/2025,1.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.1,1.0915300000000001,1.03708,0.8457900000000002
+292,Visalia,10/20/2025,3.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.6,3.57228,3.3940799999999998,2.76804
+293,Visalia,10/21/2025,3.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.2,3.17536,3.01696,2.4604800000000004
+294,Visalia,10/22/2025,9.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,9.4,9.32762,8.86232,7.22766
+295,Visalia,10/23/2025,2.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.8,2.77844,2.63984,2.15292
+296,Visalia,10/24/2025,3.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.6,3.57228,3.3940799999999998,2.76804
+297,Visalia,10/25/2025,5.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.1,5.0607299999999995,4.80828,3.9213899999999997
+298,Visalia,10/26/2025,5.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.5,5.45765,5.1854,4.22895
+299,Visalia,10/27/2025,6.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.0,5.953799999999999,5.6568,4.6134
+300,Visalia,10/28/2025,2.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.2,2.1830600000000002,2.07416,1.6915800000000003
+301,Visalia,10/29/2025,1.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.5,1.4884499999999998,1.4142,1.15335
+302,Visalia,10/30/2025,1.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.2,1.1907599999999998,1.13136,0.92268
+303,Visalia,10/31/2025,5.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.5,5.45765,5.1854,4.22895
+304,Visalia,11/01/2025,6.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.7,6.64841,6.31676,5.15163
+305,Visalia,11/02/2025,6.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,6.7,6.64841,6.31676,5.15163
+306,Visalia,11/03/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+307,Visalia,11/04/2025,1.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.2,1.1907599999999998,1.13136,0.92268
+308,Visalia,11/05/2025,2.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.0,1.9846,1.8856,1.5378
+309,Visalia,11/06/2025,0.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.8,0.79384,0.75424,0.6151200000000001
+310,Visalia,11/07/2025,2.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.8,2.77844,2.63984,2.15292
+311,Visalia,11/08/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+312,Visalia,11/09/2025,-0.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.3,-0.29768999999999995,-0.28284,-0.23067
+313,Visalia,11/10/2025,-0.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.4,-0.39692,-0.37712,-0.30756000000000006
+314,Visalia,11/11/2025,0.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.0,0.0,0.0,0.0
+315,Visalia,11/12/2025,1.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.9,1.8853699999999998,1.7913199999999998,1.46091
+316,Visalia,11/13/2025,-0.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.2,-0.19846,-0.18856,-0.15378000000000003
+317,Visalia,11/14/2025,0.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.7,0.69461,0.65996,0.53823
+318,Visalia,11/15/2025,-2.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,-2.5,-2.48075,-2.3569999999999998,-1.92225
+319,Visalia,11/16/2025,-1.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,-1.2,-1.1907599999999998,-1.13136,-0.92268
+320,Visalia,11/17/2025,-1.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,-1.0,-0.9923,-0.9428,-0.7689
+321,Visalia,11/18/2025,-0.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.9,-0.89307,-0.8485199999999999,-0.69201
+322,Visalia,11/19/2025,-0.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.2,-0.19846,-0.18856,-0.15378000000000003
+323,Visalia,11/20/2025,-0.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,-0.2,-0.19846,-0.18856,-0.15378000000000003
+324,Visalia,11/21/2025,1.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.4,1.38922,1.31992,1.07646
+325,Visalia,11/22/2025,0.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.0,0.0,0.0,0.0
+326,Visalia,11/23/2025,0.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.1,0.09923,0.09428,0.07689000000000001
+327,Visalia,11/24/2025,7.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.6,7.541479999999999,7.165279999999999,5.84364
+328,Visalia,11/25/2025,7.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,7.0,6.9460999999999995,6.5996,5.3823
+329,Visalia,11/26/2025,3.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.5,3.4730499999999997,3.2998,2.69115
+330,Visalia,11/27/2025,0.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.8,0.79384,0.75424,0.6151200000000001
+331,Visalia,11/28/2025,2.1,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.1,2.08383,1.97988,1.6146900000000002
+332,Visalia,11/29/2025,5.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,5.0,4.9615,4.7139999999999995,3.8445
+333,Visalia,11/30/2025,3.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.9,3.86997,3.67692,2.99871
+334,Visalia,12/01/2025,3.6,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.6,3.57228,3.3940799999999998,2.76804
+335,Visalia,12/03/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+336,Visalia,12/04/2025,3.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.7,3.67151,3.48836,2.84493
+337,Visalia,12/05/2025,3.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.0,2.9768999999999997,2.8284,2.3067
+338,Visalia,12/06/2025,4.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.3,4.26689,4.05404,3.30627
+339,Visalia,12/07/2025,3.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.8,3.7707399999999995,3.5826399999999996,2.92182
+340,Visalia,12/08/2025,2.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.2,2.1830600000000002,2.07416,1.6915800000000003
+341,Visalia,12/09/2025,1.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.5,1.4884499999999998,1.4142,1.15335
+342,Visalia,12/10/2025,0.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.8,0.79384,0.75424,0.6151200000000001
+343,Visalia,12/12/2025,0.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.4,0.39692,0.37712,0.30756000000000006
+344,Visalia,12/13/2025,1.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.4,1.38922,1.31992,1.07646
+345,Visalia,12/14/2025,2.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.3,2.2822899999999997,2.16844,1.76847
+346,Visalia,12/15/2025,1.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.7,1.68691,1.60276,1.30713
+347,Visalia,12/16/2025,1.8,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.8,1.78614,1.6970399999999999,1.38402
+348,Visalia,12/17/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+349,Visalia,12/18/2025,3.3,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.3,3.27459,3.1112399999999996,2.53737
+350,Visalia,12/19/2025,4.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.0,3.9692,3.7712,3.0756
+351,Visalia,12/20/2025,4.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,4.0,3.9692,3.7712,3.0756
+352,Visalia,12/21/2025,1.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.4,1.38922,1.31992,1.07646
+353,Visalia,12/22/2025,2.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.2,2.1830600000000002,2.07416,1.6915800000000003
+354,Visalia,12/23/2025,1.4,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.4,1.38922,1.31992,1.07646
+355,Visalia,12/24/2025,1.0,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.0,0.9923,0.9428,0.7689
+356,Visalia,12/25/2025,0.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,0.7,0.69461,0.65996,0.53823
+357,Visalia,12/26/2025,1.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,1.7,1.68691,1.60276,1.30713
+358,Visalia,12/27/2025,2.7,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.7,2.67921,2.54556,2.0760300000000003
+359,Visalia,12/28/2025,3.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.5,3.4730499999999997,3.2998,2.69115
+360,Visalia,12/29/2025,3.5,California,Sequoia & Kings Canyon NPs - Ash Mountain,3.5,3.4730499999999997,3.2998,2.69115
+361,Visalia,12/30/2025,2.9,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.9,2.8776699999999997,2.73412,2.22981
+362,Visalia,12/31/2025,2.2,California,Sequoia & Kings Canyon NPs - Ash Mountain,2.2,2.1830600000000002,2.07416,1.6915800000000003
+363,Visalia,01/01/2025,4.1,California,Sequoia NP,4.1,4.068429999999999,3.8654799999999994,3.15249
+364,Visalia,01/04/2025,2.4,California,Sequoia NP,2.4,2.3815199999999996,2.26272,1.84536
+365,Visalia,01/07/2025,11.5,California,Sequoia NP,11.5,11.41145,10.8422,8.84235
+366,Visalia,01/10/2025,1.2,California,Sequoia NP,1.2,1.1907599999999998,1.13136,0.92268
+367,Visalia,01/13/2025,2.7,California,Sequoia NP,2.7,2.67921,2.54556,2.0760300000000003
+368,Visalia,01/16/2025,1.5,California,Sequoia NP,1.5,1.4884499999999998,1.4142,1.15335
+369,Visalia,01/19/2025,11.3,California,Sequoia NP,11.3,11.21299,10.653640000000001,8.68857
+370,Visalia,01/22/2025,3.6,California,Sequoia NP,3.6,3.57228,3.3940799999999998,2.76804
+371,Visalia,01/25/2025,2.9,California,Sequoia NP,2.9,2.8776699999999997,2.73412,2.22981
+372,Visalia,01/28/2025,3.3,California,Sequoia NP,3.3,3.27459,3.1112399999999996,2.53737
+373,Visalia,01/31/2025,10.7,California,Sequoia NP,10.7,10.617609999999999,10.087959999999999,8.22723
+374,Visalia,02/03/2025,2.9,California,Sequoia NP,2.9,2.8776699999999997,2.73412,2.22981
+375,Visalia,02/06/2025,0.5,California,Sequoia NP,0.5,0.49615,0.4714,0.38445
+376,Visalia,02/09/2025,5.6,California,Sequoia NP,5.6,5.55688,5.27968,4.30584
+377,Visalia,02/12/2025,3.1,California,Sequoia NP,3.1,3.07613,2.92268,2.3835900000000003
+378,Visalia,02/15/2025,1.6,California,Sequoia NP,1.6,1.58768,1.50848,1.2302400000000002
+379,Visalia,02/18/2025,4.4,California,Sequoia NP,4.4,4.3661200000000004,4.14832,3.3831600000000006
+380,Visalia,02/21/2025,3.6,California,Sequoia NP,3.6,3.57228,3.3940799999999998,2.76804
+381,Visalia,02/24/2025,5.8,California,Sequoia NP,5.8,5.7553399999999995,5.46824,4.45962
+382,Visalia,02/27/2025,2.4,California,Sequoia NP,2.4,2.3815199999999996,2.26272,1.84536
+383,Visalia,03/02/2025,1.5,California,Sequoia NP,1.5,1.4884499999999998,1.4142,1.15335
+384,Visalia,03/05/2025,1.4,California,Sequoia NP,1.4,1.38922,1.31992,1.07646
+385,Visalia,03/08/2025,1.2,California,Sequoia NP,1.2,1.1907599999999998,1.13136,0.92268
+386,Visalia,03/11/2025,2.0,California,Sequoia NP,2.0,1.9846,1.8856,1.5378
+387,Visalia,03/14/2025,0.5,California,Sequoia NP,0.5,0.49615,0.4714,0.38445
+388,Visalia,03/17/2025,1.2,California,Sequoia NP,1.2,1.1907599999999998,1.13136,0.92268
+389,Visalia,03/20/2025,3.6,California,Sequoia NP,3.6,3.57228,3.3940799999999998,2.76804
+390,Visalia,03/23/2025,5.9,California,Sequoia NP,5.9,5.85457,5.56252,4.536510000000001
+391,Visalia,03/26/2025,3.4,California,Sequoia NP,3.4,3.37382,3.20552,2.61426
+392,Visalia,03/29/2025,3.1,California,Sequoia NP,3.1,3.07613,2.92268,2.3835900000000003
+393,Visalia,04/01/2025,1.4,California,Sequoia NP,1.4,1.38922,1.31992,1.07646
+394,Visalia,04/04/2025,2.4,California,Sequoia NP,2.4,2.3815199999999996,2.26272,1.84536
+395,Visalia,04/07/2025,5.0,California,Sequoia NP,5.0,4.9615,4.7139999999999995,3.8445
+396,Visalia,04/10/2025,10.5,California,Sequoia NP,10.5,10.41915,9.8994,8.073450000000001
+397,Visalia,04/13/2025,8.6,California,Sequoia NP,8.6,8.53378,8.10808,6.61254
+398,Visalia,04/16/2025,10.2,California,Sequoia NP,10.2,10.121459999999999,9.61656,7.842779999999999
+399,Visalia,04/19/2025,5.4,California,Sequoia NP,5.4,5.35842,5.09112,4.1520600000000005
+400,Visalia,04/22/2025,7.5,California,Sequoia NP,7.5,7.44225,7.071,5.76675
+401,Visalia,04/25/2025,5.3,California,Sequoia NP,5.3,5.259189999999999,4.99684,4.07517
+402,Visalia,04/28/2025,4.1,California,Sequoia NP,4.1,4.068429999999999,3.8654799999999994,3.15249
+403,Visalia,05/01/2025,6.9,California,Sequoia NP,6.9,6.84687,6.50532,5.30541
+404,Visalia,05/04/2025,5.8,California,Sequoia NP,5.8,5.7553399999999995,5.46824,4.45962
+405,Visalia,05/07/2025,7.2,California,Sequoia NP,7.2,7.14456,6.7881599999999995,5.53608
+406,Visalia,05/10/2025,5.8,California,Sequoia NP,5.8,5.7553399999999995,5.46824,4.45962
+407,Visalia,05/13/2025,3.1,California,Sequoia NP,3.1,3.07613,2.92268,2.3835900000000003
+408,Visalia,05/16/2025,5.9,California,Sequoia NP,5.9,5.85457,5.56252,4.536510000000001
+409,Visalia,05/19/2025,7.0,California,Sequoia NP,7.0,6.9460999999999995,6.5996,5.3823
+410,Visalia,05/22/2025,8.0,California,Sequoia NP,8.0,7.9384,7.5424,6.1512
+411,Visalia,05/25/2025,7.8,California,Sequoia NP,7.8,7.73994,7.35384,5.99742
+412,Visalia,05/28/2025,8.6,California,Sequoia NP,8.6,8.53378,8.10808,6.61254
+413,Visalia,05/31/2025,10.2,California,Sequoia NP,10.2,10.121459999999999,9.61656,7.842779999999999
+414,Visalia,06/03/2025,8.2,California,Sequoia NP,8.2,8.136859999999999,7.730959999999999,6.30498
+415,Visalia,06/06/2025,9.2,California,Sequoia NP,9.2,9.129159999999999,8.67376,7.07388
+416,Visalia,06/09/2025,11.4,California,Sequoia NP,11.4,11.31222,10.74792,8.765460000000001
+417,Visalia,06/12/2025,8.4,California,Sequoia NP,8.4,8.33532,7.91952,6.458760000000001
+418,Visalia,06/15/2025,7.8,California,Sequoia NP,7.8,7.73994,7.35384,5.99742
+419,Visalia,06/18/2025,9.6,California,Sequoia NP,9.6,9.526079999999999,9.05088,7.38144
+420,Visalia,06/21/2025,5.0,California,Sequoia NP,5.0,4.9615,4.7139999999999995,3.8445
+421,Visalia,06/24/2025,7.6,California,Sequoia NP,7.6,7.541479999999999,7.165279999999999,5.84364
+422,Visalia,06/27/2025,10.4,California,Sequoia NP,10.4,10.31992,9.80512,7.996560000000001
+423,Visalia,06/30/2025,7.0,California,Sequoia NP,7.0,6.9460999999999995,6.5996,5.3823
+424,Visalia,07/03/2025,6.3,California,Sequoia NP,6.3,6.2514899999999995,5.93964,4.84407
+425,Visalia,07/06/2025,7.2,California,Sequoia NP,7.2,7.14456,6.7881599999999995,5.53608
+426,Visalia,07/09/2025,8.0,California,Sequoia NP,8.0,7.9384,7.5424,6.1512
+427,Visalia,07/12/2025,11.3,California,Sequoia NP,11.3,11.21299,10.653640000000001,8.68857
+428,Visalia,07/15/2025,14.0,California,Sequoia NP,14.0,13.892199999999999,13.1992,10.7646
+429,Visalia,07/18/2025,9.4,California,Sequoia NP,9.4,9.32762,8.86232,7.22766
+430,Visalia,07/21/2025,7.6,California,Sequoia NP,7.6,7.541479999999999,7.165279999999999,5.84364
+431,Visalia,07/24/2025,6.1,California,Sequoia NP,6.1,6.05303,5.751079999999999,4.69029
+432,Visalia,07/27/2025,5.7,California,Sequoia NP,5.7,5.65611,5.37396,4.3827300000000005
+433,Visalia,07/30/2025,5.6,California,Sequoia NP,5.6,5.55688,5.27968,4.30584
+434,Visalia,01/01/2025,32.2,California,Visalia-W. Ashland Avenue,32.2,31.952060000000003,30.35816,24.758580000000002
+435,Visalia,01/02/2025,29.2,California,Visalia-W. Ashland Avenue,29.2,28.97516,27.52976,22.45188
+436,Visalia,01/03/2025,19.8,California,Visalia-W. Ashland Avenue,19.8,19.64754,18.66744,15.22422
+437,Visalia,01/04/2025,15.8,California,Visalia-W. Ashland Avenue,15.8,15.67834,14.89624,12.148620000000001
+438,Visalia,01/05/2025,17.8,California,Visalia-W. Ashland Avenue,17.8,17.66294,16.78184,13.686420000000002
+439,Visalia,01/06/2025,18.2,California,Visalia-W. Ashland Avenue,18.2,18.059859999999997,17.15896,13.99398
+440,Visalia,01/07/2025,23.0,California,Visalia-W. Ashland Avenue,23.0,22.8229,21.6844,17.6847
+441,Visalia,01/08/2025,24.5,California,Visalia-W. Ashland Avenue,24.5,24.311349999999997,23.098599999999998,18.83805
+442,Visalia,01/09/2025,18.7,California,Visalia-W. Ashland Avenue,18.7,18.556009999999997,17.63036,14.37843
+443,Visalia,01/10/2025,17.7,California,Visalia-W. Ashland Avenue,17.7,17.563709999999997,16.687559999999998,13.60953
+444,Visalia,01/11/2025,23.7,California,Visalia-W. Ashland Avenue,23.7,23.517509999999998,22.344359999999998,18.22293
+445,Visalia,01/12/2025,17.0,California,Visalia-W. Ashland Avenue,17.0,16.8691,16.0276,13.0713
+446,Visalia,01/13/2025,12.7,California,Visalia-W. Ashland Avenue,12.7,12.60221,11.973559999999999,9.76503
+447,Visalia,01/14/2025,16.0,California,Visalia-W. Ashland Avenue,16.0,15.8768,15.0848,12.3024
+448,Visalia,01/15/2025,15.5,California,Visalia-W. Ashland Avenue,15.5,15.38065,14.6134,11.917950000000001
+449,Visalia,01/16/2025,15.0,California,Visalia-W. Ashland Avenue,15.0,14.8845,14.142,11.5335
+450,Visalia,01/17/2025,21.1,California,Visalia-W. Ashland Avenue,21.1,20.93753,19.89308,16.22379
+451,Visalia,01/18/2025,33.8,California,Visalia-W. Ashland Avenue,33.8,33.539739999999995,31.866639999999997,25.98882
+452,Visalia,01/19/2025,31.9,California,Visalia-W. Ashland Avenue,31.9,31.654369999999997,30.075319999999998,24.52791
+453,Visalia,01/20/2025,32.4,California,Visalia-W. Ashland Avenue,32.4,32.15052,30.546719999999997,24.91236
+454,Visalia,01/21/2025,26.4,California,Visalia-W. Ashland Avenue,26.4,26.19672,24.889919999999996,20.29896
+455,Visalia,01/22/2025,27.2,California,Visalia-W. Ashland Avenue,27.2,26.99056,25.64416,20.91408
+456,Visalia,01/23/2025,30.9,California,Visalia-W. Ashland Avenue,30.9,30.662069999999996,29.13252,23.75901
+457,Visalia,01/24/2025,17.9,California,Visalia-W. Ashland Avenue,17.9,17.762169999999998,16.876119999999997,13.763309999999999
+458,Visalia,01/25/2025,13.1,California,Visalia-W. Ashland Avenue,13.1,12.99913,12.350679999999999,10.07259
+459,Visalia,01/26/2025,5.4,California,Visalia-W. Ashland Avenue,5.4,5.35842,5.09112,4.1520600000000005
+460,Visalia,01/27/2025,9.8,California,Visalia-W. Ashland Avenue,9.8,9.724540000000001,9.23944,7.535220000000001
+461,Visalia,01/28/2025,10.9,California,Visalia-W. Ashland Avenue,10.9,10.81607,10.27652,8.38101
+462,Visalia,01/29/2025,13.1,California,Visalia-W. Ashland Avenue,13.1,12.99913,12.350679999999999,10.07259
+463,Visalia,01/30/2025,22.4,California,Visalia-W. Ashland Avenue,22.4,22.22752,21.11872,17.22336
+464,Visalia,01/31/2025,28.5,California,Visalia-W. Ashland Avenue,28.5,28.280549999999998,26.869799999999998,21.91365
+465,Visalia,02/01/2025,27.1,California,Visalia-W. Ashland Avenue,27.1,26.89133,25.54988,20.837190000000003
+466,Visalia,02/02/2025,10.0,California,Visalia-W. Ashland Avenue,10.0,9.923,9.427999999999999,7.689
+467,Visalia,02/03/2025,6.1,California,Visalia-W. Ashland Avenue,6.1,6.05303,5.751079999999999,4.69029
+468,Visalia,02/04/2025,3.5,California,Visalia-W. Ashland Avenue,3.5,3.4730499999999997,3.2998,2.69115
+469,Visalia,02/05/2025,3.3,California,Visalia-W. Ashland Avenue,3.3,3.27459,3.1112399999999996,2.53737
+470,Visalia,02/06/2025,5.8,California,Visalia-W. Ashland Avenue,5.8,5.7553399999999995,5.46824,4.45962
+471,Visalia,02/07/2025,3.4,California,Visalia-W. Ashland Avenue,3.4,3.37382,3.20552,2.61426
+472,Visalia,02/08/2025,13.7,California,Visalia-W. Ashland Avenue,13.7,13.594509999999998,12.91636,10.53393
+473,Visalia,02/09/2025,10.7,California,Visalia-W. Ashland Avenue,10.7,10.617609999999999,10.087959999999999,8.22723
+474,Visalia,02/10/2025,8.7,California,Visalia-W. Ashland Avenue,8.7,8.633009999999999,8.202359999999999,6.68943
+475,Visalia,02/11/2025,10.2,California,Visalia-W. Ashland Avenue,10.2,10.121459999999999,9.61656,7.842779999999999
+476,Visalia,02/12/2025,6.1,California,Visalia-W. Ashland Avenue,6.1,6.05303,5.751079999999999,4.69029
+477,Visalia,02/13/2025,2.9,California,Visalia-W. Ashland Avenue,2.9,2.8776699999999997,2.73412,2.22981
+478,Visalia,02/14/2025,3.8,California,Visalia-W. Ashland Avenue,3.8,3.7707399999999995,3.5826399999999996,2.92182
+479,Visalia,02/15/2025,11.3,California,Visalia-W. Ashland Avenue,11.3,11.21299,10.653640000000001,8.68857
+480,Visalia,02/16/2025,11.0,California,Visalia-W. Ashland Avenue,11.0,10.9153,10.3708,8.4579
+481,Visalia,02/17/2025,12.7,California,Visalia-W. Ashland Avenue,12.7,12.60221,11.973559999999999,9.76503
+482,Visalia,02/18/2025,10.3,California,Visalia-W. Ashland Avenue,10.3,10.220690000000001,9.710840000000001,7.919670000000001
+483,Visalia,02/19/2025,10.6,California,Visalia-W. Ashland Avenue,10.6,10.518379999999999,9.99368,8.15034
+484,Visalia,02/20/2025,11.0,California,Visalia-W. Ashland Avenue,11.0,10.9153,10.3708,8.4579
+485,Visalia,02/21/2025,13.5,California,Visalia-W. Ashland Avenue,13.5,13.396049999999999,12.7278,10.38015
+486,Visalia,02/22/2025,18.4,California,Visalia-W. Ashland Avenue,18.4,18.258319999999998,17.34752,14.14776
+487,Visalia,02/23/2025,14.3,California,Visalia-W. Ashland Avenue,14.3,14.18989,13.48204,10.995270000000001
+488,Visalia,02/24/2025,10.7,California,Visalia-W. Ashland Avenue,10.7,10.617609999999999,10.087959999999999,8.22723
+489,Visalia,02/25/2025,10.2,California,Visalia-W. Ashland Avenue,10.2,10.121459999999999,9.61656,7.842779999999999
+490,Visalia,02/26/2025,15.7,California,Visalia-W. Ashland Avenue,15.7,15.579109999999998,14.80196,12.07173
+491,Visalia,02/27/2025,14.7,California,Visalia-W. Ashland Avenue,14.7,14.586809999999998,13.85916,11.30283
+492,Visalia,02/28/2025,9.5,California,Visalia-W. Ashland Avenue,9.5,9.42685,8.9566,7.30455
+493,Visalia,03/01/2025,8.2,California,Visalia-W. Ashland Avenue,8.2,8.136859999999999,7.730959999999999,6.30498
+494,Visalia,03/02/2025,3.2,California,Visalia-W. Ashland Avenue,3.2,3.17536,3.01696,2.4604800000000004
+495,Visalia,03/03/2025,3.6,California,Visalia-W. Ashland Avenue,3.6,3.57228,3.3940799999999998,2.76804
+496,Visalia,03/04/2025,6.2,California,Visalia-W. Ashland Avenue,6.2,6.15226,5.84536,4.767180000000001
+497,Visalia,03/05/2025,6.0,California,Visalia-W. Ashland Avenue,6.0,5.953799999999999,5.6568,4.6134
+498,Visalia,03/07/2025,7.1,California,Visalia-W. Ashland Avenue,7.1,7.045329999999999,6.693879999999999,5.4591899999999995
+499,Visalia,03/08/2025,6.3,California,Visalia-W. Ashland Avenue,6.3,6.2514899999999995,5.93964,4.84407
+500,Visalia,03/09/2025,4.3,California,Visalia-W. Ashland Avenue,4.3,4.26689,4.05404,3.30627
+501,Visalia,03/10/2025,5.9,California,Visalia-W. Ashland Avenue,5.9,5.85457,5.56252,4.536510000000001
+502,Visalia,03/11/2025,5.6,California,Visalia-W. Ashland Avenue,5.6,5.55688,5.27968,4.30584
+503,Visalia,03/12/2025,3.3,California,Visalia-W. Ashland Avenue,3.3,3.27459,3.1112399999999996,2.53737
+504,Visalia,03/13/2025,2.0,California,Visalia-W. Ashland Avenue,2.0,1.9846,1.8856,1.5378
+505,Visalia,03/14/2025,4.1,California,Visalia-W. Ashland Avenue,4.1,4.068429999999999,3.8654799999999994,3.15249
+506,Visalia,03/15/2025,7.6,California,Visalia-W. Ashland Avenue,7.6,7.541479999999999,7.165279999999999,5.84364
+507,Visalia,03/16/2025,6.2,California,Visalia-W. Ashland Avenue,6.2,6.15226,5.84536,4.767180000000001
+508,Visalia,03/17/2025,4.4,California,Visalia-W. Ashland Avenue,4.4,4.3661200000000004,4.14832,3.3831600000000006
+509,Visalia,03/18/2025,3.2,California,Visalia-W. Ashland Avenue,3.2,3.17536,3.01696,2.4604800000000004
+510,Visalia,03/19/2025,7.1,California,Visalia-W. Ashland Avenue,7.1,7.045329999999999,6.693879999999999,5.4591899999999995
+511,Visalia,03/20/2025,3.0,California,Visalia-W. Ashland Avenue,3.0,2.9768999999999997,2.8284,2.3067
+512,Visalia,03/21/2025,6.7,California,Visalia-W. Ashland Avenue,6.7,6.64841,6.31676,5.15163
+513,Visalia,03/22/2025,5.0,California,Visalia-W. Ashland Avenue,5.0,4.9615,4.7139999999999995,3.8445
+514,Visalia,03/23/2025,7.7,California,Visalia-W. Ashland Avenue,7.7,7.6407099999999994,7.25956,5.92053
+515,Visalia,03/24/2025,11.4,California,Visalia-W. Ashland Avenue,11.4,11.31222,10.74792,8.765460000000001
+516,Visalia,03/25/2025,11.7,California,Visalia-W. Ashland Avenue,11.7,11.60991,11.030759999999999,8.996129999999999
+517,Visalia,03/26/2025,4.4,California,Visalia-W. Ashland Avenue,4.4,4.3661200000000004,4.14832,3.3831600000000006
+518,Visalia,03/27/2025,4.1,California,Visalia-W. Ashland Avenue,4.1,4.068429999999999,3.8654799999999994,3.15249
+519,Visalia,03/28/2025,3.8,California,Visalia-W. Ashland Avenue,3.8,3.7707399999999995,3.5826399999999996,2.92182
+520,Visalia,03/29/2025,5.0,California,Visalia-W. Ashland Avenue,5.0,4.9615,4.7139999999999995,3.8445
+521,Visalia,03/30/2025,4.1,California,Visalia-W. Ashland Avenue,4.1,4.068429999999999,3.8654799999999994,3.15249
+522,Visalia,03/31/2025,2.7,California,Visalia-W. Ashland Avenue,2.7,2.67921,2.54556,2.0760300000000003
+523,Visalia,04/01/2025,3.4,California,Visalia-W. Ashland Avenue,3.4,3.37382,3.20552,2.61426
+524,Visalia,04/02/2025,2.6,California,Visalia-W. Ashland Avenue,2.6,2.57998,2.45128,1.9991400000000001
+525,Visalia,04/03/2025,4.8,California,Visalia-W. Ashland Avenue,4.8,4.763039999999999,4.52544,3.69072
+526,Visalia,04/04/2025,7.2,California,Visalia-W. Ashland Avenue,7.2,7.14456,6.7881599999999995,5.53608
+527,Visalia,04/05/2025,7.8,California,Visalia-W. Ashland Avenue,7.8,7.73994,7.35384,5.99742
+528,Visalia,04/06/2025,8.2,California,Visalia-W. Ashland Avenue,8.2,8.136859999999999,7.730959999999999,6.30498
+529,Visalia,04/07/2025,8.0,California,Visalia-W. Ashland Avenue,8.0,7.9384,7.5424,6.1512
+530,Visalia,04/08/2025,5.6,California,Visalia-W. Ashland Avenue,5.6,5.55688,5.27968,4.30584
+531,Visalia,04/09/2025,8.0,California,Visalia-W. Ashland Avenue,8.0,7.9384,7.5424,6.1512
+532,Visalia,04/10/2025,14.4,California,Visalia-W. Ashland Avenue,14.4,14.28912,13.576319999999999,11.07216
+533,Visalia,04/11/2025,8.5,California,Visalia-W. Ashland Avenue,8.5,8.43455,8.0138,6.53565
+534,Visalia,04/12/2025,5.6,California,Visalia-W. Ashland Avenue,5.6,5.55688,5.27968,4.30584
+535,Visalia,04/13/2025,7.5,California,Visalia-W. Ashland Avenue,7.5,7.44225,7.071,5.76675
+536,Visalia,04/14/2025,13.3,California,Visalia-W. Ashland Avenue,13.3,13.19759,12.53924,10.226370000000001
+537,Visalia,04/15/2025,9.6,California,Visalia-W. Ashland Avenue,9.6,9.526079999999999,9.05088,7.38144
+538,Visalia,04/16/2025,10.8,California,Visalia-W. Ashland Avenue,10.8,10.71684,10.18224,8.304120000000001
+539,Visalia,04/17/2025,10.2,California,Visalia-W. Ashland Avenue,10.2,10.121459999999999,9.61656,7.842779999999999
+540,Visalia,04/18/2025,9.4,California,Visalia-W. Ashland Avenue,9.4,9.32762,8.86232,7.22766
+541,Visalia,04/19/2025,11.0,California,Visalia-W. Ashland Avenue,11.0,10.9153,10.3708,8.4579
+542,Visalia,04/20/2025,11.1,California,Visalia-W. Ashland Avenue,11.1,11.014529999999999,10.465079999999999,8.53479
+543,Visalia,04/21/2025,9.8,California,Visalia-W. Ashland Avenue,9.8,9.724540000000001,9.23944,7.535220000000001
+544,Visalia,04/22/2025,8.6,California,Visalia-W. Ashland Avenue,8.6,8.53378,8.10808,6.61254
+545,Visalia,04/23/2025,7.2,California,Visalia-W. Ashland Avenue,7.2,7.14456,6.7881599999999995,5.53608
+546,Visalia,04/24/2025,10.5,California,Visalia-W. Ashland Avenue,10.5,10.41915,9.8994,8.073450000000001
+547,Visalia,04/25/2025,6.5,California,Visalia-W. Ashland Avenue,6.5,6.449949999999999,6.1282,4.997850000000001
+548,Visalia,04/26/2025,4.7,California,Visalia-W. Ashland Avenue,4.7,4.66381,4.43116,3.61383
+549,Visalia,04/27/2025,3.2,California,Visalia-W. Ashland Avenue,3.2,3.17536,3.01696,2.4604800000000004
+550,Visalia,04/28/2025,6.8,California,Visalia-W. Ashland Avenue,6.8,6.74764,6.41104,5.22852
+551,Visalia,04/29/2025,10.1,California,Visalia-W. Ashland Avenue,10.1,10.022229999999999,9.522279999999999,7.76589
+552,Visalia,04/30/2025,10.5,California,Visalia-W. Ashland Avenue,10.5,10.41915,9.8994,8.073450000000001
+553,Visalia,05/01/2025,9.5,California,Visalia-W. Ashland Avenue,9.5,9.42685,8.9566,7.30455
+554,Visalia,05/02/2025,11.3,California,Visalia-W. Ashland Avenue,11.3,11.21299,10.653640000000001,8.68857
+555,Visalia,05/03/2025,5.7,California,Visalia-W. Ashland Avenue,5.7,5.65611,5.37396,4.3827300000000005
+556,Visalia,05/04/2025,9.1,California,Visalia-W. Ashland Avenue,9.1,9.029929999999998,8.57948,6.99699
+557,Visalia,05/05/2025,9.8,California,Visalia-W. Ashland Avenue,9.8,9.724540000000001,9.23944,7.535220000000001
+558,Visalia,05/06/2025,8.4,California,Visalia-W. Ashland Avenue,8.4,8.33532,7.91952,6.458760000000001
+559,Visalia,05/07/2025,8.6,California,Visalia-W. Ashland Avenue,8.6,8.53378,8.10808,6.61254
+560,Visalia,05/08/2025,13.7,California,Visalia-W. Ashland Avenue,13.7,13.594509999999998,12.91636,10.53393
+561,Visalia,05/09/2025,14.1,California,Visalia-W. Ashland Avenue,14.1,13.99143,13.293479999999999,10.84149
+562,Visalia,05/10/2025,11.5,California,Visalia-W. Ashland Avenue,11.5,11.41145,10.8422,8.84235
+563,Visalia,05/11/2025,4.0,California,Visalia-W. Ashland Avenue,4.0,3.9692,3.7712,3.0756
+564,Visalia,05/12/2025,4.4,California,Visalia-W. Ashland Avenue,4.4,4.3661200000000004,4.14832,3.3831600000000006
+565,Visalia,05/13/2025,4.4,California,Visalia-W. Ashland Avenue,4.4,4.3661200000000004,4.14832,3.3831600000000006
+566,Visalia,05/14/2025,5.0,California,Visalia-W. Ashland Avenue,5.0,4.9615,4.7139999999999995,3.8445
+567,Visalia,05/15/2025,7.7,California,Visalia-W. Ashland Avenue,7.7,7.6407099999999994,7.25956,5.92053
+568,Visalia,05/16/2025,8.1,California,Visalia-W. Ashland Avenue,8.1,8.03763,7.636679999999999,6.22809
+569,Visalia,05/17/2025,6.8,California,Visalia-W. Ashland Avenue,6.8,6.74764,6.41104,5.22852
+570,Visalia,05/18/2025,5.3,California,Visalia-W. Ashland Avenue,5.3,5.259189999999999,4.99684,4.07517
+571,Visalia,05/19/2025,8.8,California,Visalia-W. Ashland Avenue,8.8,8.732240000000001,8.29664,6.766320000000001
+572,Visalia,05/20/2025,6.5,California,Visalia-W. Ashland Avenue,6.5,6.449949999999999,6.1282,4.997850000000001
+573,Visalia,05/21/2025,8.5,California,Visalia-W. Ashland Avenue,8.5,8.43455,8.0138,6.53565
+574,Visalia,05/22/2025,7.8,California,Visalia-W. Ashland Avenue,7.8,7.73994,7.35384,5.99742
+575,Visalia,05/23/2025,4.0,California,Visalia-W. Ashland Avenue,4.0,3.9692,3.7712,3.0756
+576,Visalia,05/24/2025,5.8,California,Visalia-W. Ashland Avenue,5.8,5.7553399999999995,5.46824,4.45962
+577,Visalia,05/25/2025,8.0,California,Visalia-W. Ashland Avenue,8.0,7.9384,7.5424,6.1512
+578,Visalia,05/26/2025,4.4,California,Visalia-W. Ashland Avenue,4.4,4.3661200000000004,4.14832,3.3831600000000006
+579,Visalia,05/27/2025,6.3,California,Visalia-W. Ashland Avenue,6.3,6.2514899999999995,5.93964,4.84407
+580,Visalia,05/28/2025,10.3,California,Visalia-W. Ashland Avenue,10.3,10.220690000000001,9.710840000000001,7.919670000000001
+581,Visalia,05/29/2025,7.2,California,Visalia-W. Ashland Avenue,7.2,7.14456,6.7881599999999995,5.53608
+582,Visalia,05/30/2025,14.8,California,Visalia-W. Ashland Avenue,14.8,14.68604,13.95344,11.37972
+583,Visalia,05/31/2025,17.7,California,Visalia-W. Ashland Avenue,17.7,17.563709999999997,16.687559999999998,13.60953
+584,Visalia,06/01/2025,7.2,California,Visalia-W. Ashland Avenue,7.2,7.14456,6.7881599999999995,5.53608
+585,Visalia,06/02/2025,10.1,California,Visalia-W. Ashland Avenue,10.1,10.022229999999999,9.522279999999999,7.76589
+586,Visalia,06/03/2025,11.7,California,Visalia-W. Ashland Avenue,11.7,11.60991,11.030759999999999,8.996129999999999
+587,Visalia,06/04/2025,12.9,California,Visalia-W. Ashland Avenue,12.9,12.80067,12.16212,9.91881
+588,Visalia,06/05/2025,11.5,California,Visalia-W. Ashland Avenue,11.5,11.41145,10.8422,8.84235
+589,Visalia,06/06/2025,11.8,California,Visalia-W. Ashland Avenue,11.8,11.70914,11.12504,9.073020000000001
+590,Visalia,06/07/2025,11.4,California,Visalia-W. Ashland Avenue,11.4,11.31222,10.74792,8.765460000000001
+591,Visalia,06/08/2025,7.7,California,Visalia-W. Ashland Avenue,7.7,7.6407099999999994,7.25956,5.92053
+592,Visalia,06/09/2025,9.8,California,Visalia-W. Ashland Avenue,9.8,9.724540000000001,9.23944,7.535220000000001
+593,Visalia,06/10/2025,9.0,California,Visalia-W. Ashland Avenue,9.0,8.9307,8.485199999999999,6.920100000000001
+594,Visalia,06/11/2025,7.2,California,Visalia-W. Ashland Avenue,7.2,7.14456,6.7881599999999995,5.53608
+595,Visalia,06/12/2025,9.4,California,Visalia-W. Ashland Avenue,9.4,9.32762,8.86232,7.22766
+596,Visalia,06/13/2025,7.4,California,Visalia-W. Ashland Avenue,7.4,7.34302,6.97672,5.68986
+597,Visalia,06/14/2025,6.8,California,Visalia-W. Ashland Avenue,6.8,6.74764,6.41104,5.22852
+598,Visalia,06/15/2025,8.0,California,Visalia-W. Ashland Avenue,8.0,7.9384,7.5424,6.1512
+599,Visalia,06/16/2025,8.4,California,Visalia-W. Ashland Avenue,8.4,8.33532,7.91952,6.458760000000001
+600,Visalia,06/17/2025,9.2,California,Visalia-W. Ashland Avenue,9.2,9.129159999999999,8.67376,7.07388
+601,Visalia,06/18/2025,12.9,California,Visalia-W. Ashland Avenue,12.9,12.80067,12.16212,9.91881
+602,Visalia,06/19/2025,13.2,California,Visalia-W. Ashland Avenue,13.2,13.09836,12.444959999999998,10.14948
+603,Visalia,06/20/2025,6.6,California,Visalia-W. Ashland Avenue,6.6,6.54918,6.222479999999999,5.07474
+604,Visalia,06/21/2025,7.0,California,Visalia-W. Ashland Avenue,7.0,6.9460999999999995,6.5996,5.3823
+605,Visalia,06/22/2025,4.7,California,Visalia-W. Ashland Avenue,4.7,4.66381,4.43116,3.61383
+606,Visalia,06/23/2025,5.1,California,Visalia-W. Ashland Avenue,5.1,5.0607299999999995,4.80828,3.9213899999999997
+607,Visalia,06/24/2025,11.0,California,Visalia-W. Ashland Avenue,11.0,10.9153,10.3708,8.4579
+608,Visalia,06/25/2025,12.5,California,Visalia-W. Ashland Avenue,12.5,12.403749999999999,11.785,9.61125
+609,Visalia,06/26/2025,11.3,California,Visalia-W. Ashland Avenue,11.3,11.21299,10.653640000000001,8.68857
+610,Visalia,06/27/2025,10.9,California,Visalia-W. Ashland Avenue,10.9,10.81607,10.27652,8.38101
+611,Visalia,06/28/2025,11.1,California,Visalia-W. Ashland Avenue,11.1,11.014529999999999,10.465079999999999,8.53479
+612,Visalia,06/29/2025,8.3,California,Visalia-W. Ashland Avenue,8.3,8.23609,7.825240000000001,6.381870000000001
+613,Visalia,06/30/2025,7.8,California,Visalia-W. Ashland Avenue,7.8,7.73994,7.35384,5.99742
+614,Visalia,07/01/2025,8.6,California,Visalia-W. Ashland Avenue,8.6,8.53378,8.10808,6.61254
+615,Visalia,07/02/2025,11.6,California,Visalia-W. Ashland Avenue,11.6,11.510679999999999,10.93648,8.91924
+616,Visalia,07/03/2025,12.9,California,Visalia-W. Ashland Avenue,12.9,12.80067,12.16212,9.91881
+617,Visalia,07/04/2025,9.7,California,Visalia-W. Ashland Avenue,9.7,9.625309999999999,9.145159999999999,7.45833
+618,Visalia,07/05/2025,8.7,California,Visalia-W. Ashland Avenue,8.7,8.633009999999999,8.202359999999999,6.68943
+619,Visalia,07/06/2025,8.1,California,Visalia-W. Ashland Avenue,8.1,8.03763,7.636679999999999,6.22809
+620,Visalia,07/07/2025,13.7,California,Visalia-W. Ashland Avenue,13.7,13.594509999999998,12.91636,10.53393
+621,Visalia,07/08/2025,11.2,California,Visalia-W. Ashland Avenue,11.2,11.11376,10.55936,8.61168
+622,Visalia,07/09/2025,9.0,California,Visalia-W. Ashland Avenue,9.0,8.9307,8.485199999999999,6.920100000000001
+623,Visalia,07/10/2025,18.2,California,Visalia-W. Ashland Avenue,18.2,18.059859999999997,17.15896,13.99398
+624,Visalia,07/11/2025,18.8,California,Visalia-W. Ashland Avenue,18.8,18.65524,17.72464,14.45532
+625,Visalia,07/12/2025,16.8,California,Visalia-W. Ashland Avenue,16.8,16.67064,15.83904,12.917520000000001
+626,Visalia,07/13/2025,14.3,California,Visalia-W. Ashland Avenue,14.3,14.18989,13.48204,10.995270000000001
+627,Visalia,07/14/2025,12.6,California,Visalia-W. Ashland Avenue,12.6,12.502979999999999,11.87928,9.68814
+628,Visalia,07/15/2025,15.2,California,Visalia-W. Ashland Avenue,15.2,15.082959999999998,14.330559999999998,11.68728
+629,Visalia,07/16/2025,8.8,California,Visalia-W. Ashland Avenue,8.8,8.732240000000001,8.29664,6.766320000000001
+630,Visalia,07/17/2025,10.4,California,Visalia-W. Ashland Avenue,10.4,10.31992,9.80512,7.996560000000001
+631,Visalia,07/18/2025,8.3,California,Visalia-W. Ashland Avenue,8.3,8.23609,7.825240000000001,6.381870000000001
+632,Visalia,07/19/2025,9.6,California,Visalia-W. Ashland Avenue,9.6,9.526079999999999,9.05088,7.38144
+633,Visalia,07/20/2025,7.0,California,Visalia-W. Ashland Avenue,7.0,6.9460999999999995,6.5996,5.3823
+634,Visalia,07/21/2025,5.4,California,Visalia-W. Ashland Avenue,5.4,5.35842,5.09112,4.1520600000000005
+635,Visalia,07/22/2025,4.2,California,Visalia-W. Ashland Avenue,4.2,4.16766,3.95976,3.2293800000000004
+636,Visalia,07/23/2025,5.5,California,Visalia-W. Ashland Avenue,5.5,5.45765,5.1854,4.22895
+637,Visalia,07/24/2025,5.6,California,Visalia-W. Ashland Avenue,5.6,5.55688,5.27968,4.30584
+638,Visalia,07/25/2025,5.5,California,Visalia-W. Ashland Avenue,5.5,5.45765,5.1854,4.22895
+639,Visalia,07/26/2025,5.0,California,Visalia-W. Ashland Avenue,5.0,4.9615,4.7139999999999995,3.8445
+640,Visalia,07/27/2025,4.7,California,Visalia-W. Ashland Avenue,4.7,4.66381,4.43116,3.61383
+641,Visalia,07/28/2025,6.8,California,Visalia-W. Ashland Avenue,6.8,6.74764,6.41104,5.22852
+642,Visalia,07/29/2025,9.1,California,Visalia-W. Ashland Avenue,9.1,9.029929999999998,8.57948,6.99699
+643,Visalia,07/30/2025,6.2,California,Visalia-W. Ashland Avenue,6.2,6.15226,5.84536,4.767180000000001
+644,Visalia,07/31/2025,7.6,California,Visalia-W. Ashland Avenue,7.6,7.541479999999999,7.165279999999999,5.84364
+645,Visalia,08/01/2025,8.9,California,Visalia-W. Ashland Avenue,8.9,8.83147,8.39092,6.843210000000001
+646,Visalia,08/02/2025,7.4,California,Visalia-W. Ashland Avenue,7.4,7.34302,6.97672,5.68986
+647,Visalia,08/03/2025,5.3,California,Visalia-W. Ashland Avenue,5.3,5.259189999999999,4.99684,4.07517
+648,Visalia,08/04/2025,5.6,California,Visalia-W. Ashland Avenue,5.6,5.55688,5.27968,4.30584
+649,Visalia,08/05/2025,5.6,California,Visalia-W. Ashland Avenue,5.6,5.55688,5.27968,4.30584
+650,Visalia,08/06/2025,8.0,California,Visalia-W. Ashland Avenue,8.0,7.9384,7.5424,6.1512
+651,Visalia,08/07/2025,8.0,California,Visalia-W. Ashland Avenue,8.0,7.9384,7.5424,6.1512
+652,Visalia,08/08/2025,10.8,California,Visalia-W. Ashland Avenue,10.8,10.71684,10.18224,8.304120000000001
+653,Visalia,08/09/2025,10.9,California,Visalia-W. Ashland Avenue,10.9,10.81607,10.27652,8.38101
+654,Visalia,08/10/2025,11.1,California,Visalia-W. Ashland Avenue,11.1,11.014529999999999,10.465079999999999,8.53479
+655,Visalia,08/11/2025,11.8,California,Visalia-W. Ashland Avenue,11.8,11.70914,11.12504,9.073020000000001
+656,Visalia,08/12/2025,11.0,California,Visalia-W. Ashland Avenue,11.0,10.9153,10.3708,8.4579
+657,Visalia,08/13/2025,9.4,California,Visalia-W. Ashland Avenue,9.4,9.32762,8.86232,7.22766
+658,Visalia,08/14/2025,9.9,California,Visalia-W. Ashland Avenue,9.9,9.82377,9.33372,7.61211
+659,Visalia,08/15/2025,9.0,California,Visalia-W. Ashland Avenue,9.0,8.9307,8.485199999999999,6.920100000000001
+660,Visalia,08/16/2025,3.8,California,Visalia-W. Ashland Avenue,3.8,3.7707399999999995,3.5826399999999996,2.92182
+661,Visalia,08/17/2025,2.5,California,Visalia-W. Ashland Avenue,2.5,2.48075,2.3569999999999998,1.92225
+662,Visalia,08/18/2025,6.0,California,Visalia-W. Ashland Avenue,6.0,5.953799999999999,5.6568,4.6134
+663,Visalia,08/19/2025,6.1,California,Visalia-W. Ashland Avenue,6.1,6.05303,5.751079999999999,4.69029
+664,Visalia,08/20/2025,8.3,California,Visalia-W. Ashland Avenue,8.3,8.23609,7.825240000000001,6.381870000000001
+665,Visalia,08/21/2025,11.8,California,Visalia-W. Ashland Avenue,11.8,11.70914,11.12504,9.073020000000001
+666,Visalia,08/22/2025,14.2,California,Visalia-W. Ashland Avenue,14.2,14.090659999999998,13.387759999999998,10.918379999999999
+667,Visalia,08/23/2025,14.4,California,Visalia-W. Ashland Avenue,14.4,14.28912,13.576319999999999,11.07216
+668,Visalia,08/24/2025,16.0,California,Visalia-W. Ashland Avenue,16.0,15.8768,15.0848,12.3024
+669,Visalia,08/25/2025,9.7,California,Visalia-W. Ashland Avenue,9.7,9.625309999999999,9.145159999999999,7.45833
+670,Visalia,08/26/2025,9.1,California,Visalia-W. Ashland Avenue,9.1,9.029929999999998,8.57948,6.99699
+671,Visalia,08/27/2025,8.8,California,Visalia-W. Ashland Avenue,8.8,8.732240000000001,8.29664,6.766320000000001
+672,Visalia,08/28/2025,14.9,California,Visalia-W. Ashland Avenue,14.9,14.78527,14.04772,11.456610000000001
+673,Visalia,08/29/2025,10.9,California,Visalia-W. Ashland Avenue,10.9,10.81607,10.27652,8.38101
+674,Visalia,08/30/2025,13.2,California,Visalia-W. Ashland Avenue,13.2,13.09836,12.444959999999998,10.14948
+675,Visalia,08/31/2025,14.1,California,Visalia-W. Ashland Avenue,14.1,13.99143,13.293479999999999,10.84149
+676,Visalia,09/01/2025,11.7,California,Visalia-W. Ashland Avenue,11.7,11.60991,11.030759999999999,8.996129999999999
+677,Visalia,09/02/2025,17.8,California,Visalia-W. Ashland Avenue,17.8,17.66294,16.78184,13.686420000000002
+678,Visalia,09/03/2025,16.4,California,Visalia-W. Ashland Avenue,16.4,16.273719999999997,15.461919999999997,12.60996
+679,Visalia,09/04/2025,11.1,California,Visalia-W. Ashland Avenue,11.1,11.014529999999999,10.465079999999999,8.53479
+680,Visalia,09/05/2025,10.0,California,Visalia-W. Ashland Avenue,10.0,9.923,9.427999999999999,7.689
+681,Visalia,09/06/2025,11.5,California,Visalia-W. Ashland Avenue,11.5,11.41145,10.8422,8.84235
+682,Visalia,09/07/2025,7.3,California,Visalia-W. Ashland Avenue,7.3,7.24379,6.88244,5.61297
+683,Visalia,09/08/2025,9.0,California,Visalia-W. Ashland Avenue,9.0,8.9307,8.485199999999999,6.920100000000001
+684,Visalia,09/09/2025,3.7,California,Visalia-W. Ashland Avenue,3.7,3.67151,3.48836,2.84493
+685,Visalia,09/10/2025,4.1,California,Visalia-W. Ashland Avenue,4.1,4.068429999999999,3.8654799999999994,3.15249
+686,Visalia,09/11/2025,4.0,California,Visalia-W. Ashland Avenue,4.0,3.9692,3.7712,3.0756
+687,Visalia,09/12/2025,8.3,California,Visalia-W. Ashland Avenue,8.3,8.23609,7.825240000000001,6.381870000000001
+688,Visalia,09/13/2025,13.3,California,Visalia-W. Ashland Avenue,13.3,13.19759,12.53924,10.226370000000001
+689,Visalia,09/14/2025,7.1,California,Visalia-W. Ashland Avenue,7.1,7.045329999999999,6.693879999999999,5.4591899999999995
+690,Visalia,09/15/2025,9.9,California,Visalia-W. Ashland Avenue,9.9,9.82377,9.33372,7.61211
+691,Visalia,09/16/2025,11.2,California,Visalia-W. Ashland Avenue,11.2,11.11376,10.55936,8.61168
+692,Visalia,09/17/2025,15.8,California,Visalia-W. Ashland Avenue,15.8,15.67834,14.89624,12.148620000000001
+693,Visalia,09/18/2025,8.3,California,Visalia-W. Ashland Avenue,8.3,8.23609,7.825240000000001,6.381870000000001
+694,Visalia,09/19/2025,9.5,California,Visalia-W. Ashland Avenue,9.5,9.42685,8.9566,7.30455
+695,Visalia,09/20/2025,16.2,California,Visalia-W. Ashland Avenue,16.2,16.07526,15.273359999999998,12.45618
+696,Visalia,09/21/2025,11.1,California,Visalia-W. Ashland Avenue,11.1,11.014529999999999,10.465079999999999,8.53479
+697,Visalia,09/22/2025,11.4,California,Visalia-W. Ashland Avenue,11.4,11.31222,10.74792,8.765460000000001
+698,Visalia,09/23/2025,14.3,California,Visalia-W. Ashland Avenue,14.3,14.18989,13.48204,10.995270000000001
+699,Visalia,09/27/2025,9.0,California,Visalia-W. Ashland Avenue,9.0,8.9307,8.485199999999999,6.920100000000001
+700,Visalia,09/28/2025,7.0,California,Visalia-W. Ashland Avenue,7.0,6.9460999999999995,6.5996,5.3823
+701,Visalia,09/29/2025,8.9,California,Visalia-W. Ashland Avenue,8.9,8.83147,8.39092,6.843210000000001
+702,Visalia,09/30/2025,7.7,California,Visalia-W. Ashland Avenue,7.7,7.6407099999999994,7.25956,5.92053
+703,Visalia,10/01/2025,7.6,California,Visalia-W. Ashland Avenue,7.6,7.541479999999999,7.165279999999999,5.84364
+704,Visalia,10/02/2025,9.5,California,Visalia-W. Ashland Avenue,9.5,9.42685,8.9566,7.30455
+705,Visalia,10/03/2025,4.3,California,Visalia-W. Ashland Avenue,4.3,4.26689,4.05404,3.30627
+706,Visalia,10/04/2025,7.4,California,Visalia-W. Ashland Avenue,7.4,7.34302,6.97672,5.68986
+707,Visalia,10/05/2025,7.1,California,Visalia-W. Ashland Avenue,7.1,7.045329999999999,6.693879999999999,5.4591899999999995
+708,Visalia,10/06/2025,10.3,California,Visalia-W. Ashland Avenue,10.3,10.220690000000001,9.710840000000001,7.919670000000001
+709,Visalia,10/07/2025,13.6,California,Visalia-W. Ashland Avenue,13.6,13.49528,12.82208,10.45704
+710,Visalia,10/08/2025,9.0,California,Visalia-W. Ashland Avenue,9.0,8.9307,8.485199999999999,6.920100000000001
+711,Visalia,10/09/2025,7.8,California,Visalia-W. Ashland Avenue,7.8,7.73994,7.35384,5.99742
+712,Visalia,10/10/2025,8.9,California,Visalia-W. Ashland Avenue,8.9,8.83147,8.39092,6.843210000000001
+713,Visalia,10/11/2025,4.7,California,Visalia-W. Ashland Avenue,4.7,4.66381,4.43116,3.61383
+714,Visalia,10/12/2025,6.2,California,Visalia-W. Ashland Avenue,6.2,6.15226,5.84536,4.767180000000001
+715,Visalia,10/13/2025,6.4,California,Visalia-W. Ashland Avenue,6.4,6.35072,6.03392,4.920960000000001
+716,Visalia,10/14/2025,3.3,California,Visalia-W. Ashland Avenue,3.3,3.27459,3.1112399999999996,2.53737
+717,Visalia,10/15/2025,4.9,California,Visalia-W. Ashland Avenue,4.9,4.8622700000000005,4.61972,3.7676100000000003
+718,Visalia,10/16/2025,10.4,California,Visalia-W. Ashland Avenue,10.4,10.31992,9.80512,7.996560000000001
+719,Visalia,10/17/2025,22.4,California,Visalia-W. Ashland Avenue,22.4,22.22752,21.11872,17.22336
+720,Visalia,10/18/2025,16.4,California,Visalia-W. Ashland Avenue,16.4,16.273719999999997,15.461919999999997,12.60996
+721,Visalia,10/19/2025,25.3,California,Visalia-W. Ashland Avenue,25.3,25.10519,23.85284,19.45317
+722,Visalia,10/20/2025,26.0,California,Visalia-W. Ashland Avenue,26.0,25.799799999999998,24.5128,19.991400000000002
+723,Visalia,10/21/2025,25.6,California,Visalia-W. Ashland Avenue,25.6,25.40288,24.13568,19.683840000000004
+724,Visalia,10/22/2025,13.7,California,Visalia-W. Ashland Avenue,13.7,13.594509999999998,12.91636,10.53393
+725,Visalia,10/23/2025,14.6,California,Visalia-W. Ashland Avenue,14.6,14.48758,13.76488,11.22594
+726,Visalia,10/24/2025,16.5,California,Visalia-W. Ashland Avenue,16.5,16.37295,15.556199999999999,12.68685
+727,Visalia,10/25/2025,17.7,California,Visalia-W. Ashland Avenue,17.7,17.563709999999997,16.687559999999998,13.60953
+728,Visalia,10/26/2025,12.5,California,Visalia-W. Ashland Avenue,12.5,12.403749999999999,11.785,9.61125
+729,Visalia,10/27/2025,7.7,California,Visalia-W. Ashland Avenue,7.7,7.6407099999999994,7.25956,5.92053
+730,Visalia,10/28/2025,14.5,California,Visalia-W. Ashland Avenue,14.5,14.388349999999999,13.6706,11.14905
+731,Visalia,10/29/2025,18.5,California,Visalia-W. Ashland Avenue,18.5,18.35755,17.4418,14.22465
+732,Visalia,10/30/2025,19.5,California,Visalia-W. Ashland Avenue,19.5,19.34985,18.3846,14.99355
+733,Visalia,10/31/2025,24.6,California,Visalia-W. Ashland Avenue,24.6,24.41058,23.192880000000002,18.91494
+734,Visalia,11/01/2025,28.2,California,Visalia-W. Ashland Avenue,28.2,27.98286,26.586959999999998,21.68298
+735,Visalia,11/02/2025,31.0,California,Visalia-W. Ashland Avenue,31.0,30.7613,29.2268,23.835900000000002
+736,Visalia,11/03/2025,23.3,California,Visalia-W. Ashland Avenue,23.3,23.12059,21.96724,17.915370000000003
+737,Visalia,11/04/2025,17.4,California,Visalia-W. Ashland Avenue,17.4,17.266019999999997,16.404719999999998,13.37886
+738,Visalia,11/05/2025,9.6,California,Visalia-W. Ashland Avenue,9.6,9.526079999999999,9.05088,7.38144
+739,Visalia,11/06/2025,8.4,California,Visalia-W. Ashland Avenue,8.4,8.33532,7.91952,6.458760000000001
+740,Visalia,11/07/2025,10.8,California,Visalia-W. Ashland Avenue,10.8,10.71684,10.18224,8.304120000000001
+741,Visalia,11/08/2025,17.6,California,Visalia-W. Ashland Avenue,17.6,17.464480000000002,16.59328,13.532640000000002
+742,Visalia,11/09/2025,17.7,California,Visalia-W. Ashland Avenue,17.7,17.563709999999997,16.687559999999998,13.60953
+743,Visalia,11/10/2025,16.7,California,Visalia-W. Ashland Avenue,16.7,16.57141,15.74476,12.840629999999999
+744,Visalia,11/11/2025,18.3,California,Visalia-W. Ashland Avenue,18.3,18.15909,17.25324,14.070870000000001
+745,Visalia,11/12/2025,15.5,California,Visalia-W. Ashland Avenue,15.5,15.38065,14.6134,11.917950000000001
+746,Visalia,11/13/2025,12.3,California,Visalia-W. Ashland Avenue,12.3,12.20529,11.596440000000001,9.45747
+747,Visalia,11/14/2025,6.9,California,Visalia-W. Ashland Avenue,6.9,6.84687,6.50532,5.30541
+748,Visalia,11/15/2025,6.9,California,Visalia-W. Ashland Avenue,6.9,6.84687,6.50532,5.30541
+749,Visalia,11/16/2025,3.0,California,Visalia-W. Ashland Avenue,3.0,2.9768999999999997,2.8284,2.3067
+750,Visalia,11/17/2025,4.7,California,Visalia-W. Ashland Avenue,4.7,4.66381,4.43116,3.61383
+751,Visalia,11/18/2025,5.0,California,Visalia-W. Ashland Avenue,5.0,4.9615,4.7139999999999995,3.8445
+752,Visalia,11/19/2025,10.3,California,Visalia-W. Ashland Avenue,10.3,10.220690000000001,9.710840000000001,7.919670000000001
+753,Visalia,11/20/2025,11.4,California,Visalia-W. Ashland Avenue,11.4,11.31222,10.74792,8.765460000000001
+754,Visalia,11/21/2025,14.9,California,Visalia-W. Ashland Avenue,14.9,14.78527,14.04772,11.456610000000001
+755,Visalia,11/22/2025,19.5,California,Visalia-W. Ashland Avenue,19.5,19.34985,18.3846,14.99355
+756,Visalia,11/23/2025,18.4,California,Visalia-W. Ashland Avenue,18.4,18.258319999999998,17.34752,14.14776
+757,Visalia,11/24/2025,21.4,California,Visalia-W. Ashland Avenue,21.4,21.235219999999998,20.175919999999998,16.45446
+758,Visalia,11/25/2025,15.4,California,Visalia-W. Ashland Avenue,15.4,15.281419999999999,14.51912,11.84106
+759,Visalia,11/26/2025,20.3,California,Visalia-W. Ashland Avenue,20.3,20.14369,19.138840000000002,15.608670000000002
+760,Visalia,11/27/2025,26.8,California,Visalia-W. Ashland Avenue,26.8,26.59364,25.26704,20.60652
+761,Visalia,11/28/2025,26.6,California,Visalia-W. Ashland Avenue,26.6,26.39518,25.07848,20.452740000000002
+762,Visalia,11/29/2025,17.0,California,Visalia-W. Ashland Avenue,17.0,16.8691,16.0276,13.0713
+763,Visalia,11/30/2025,19.3,California,Visalia-W. Ashland Avenue,19.3,19.15139,18.19604,14.839770000000001
+764,Visalia,12/01/2025,24.7,California,Visalia-W. Ashland Avenue,24.7,24.509809999999998,23.28716,18.99183
+765,Visalia,12/02/2025,23.2,California,Visalia-W. Ashland Avenue,23.2,23.021359999999998,21.87296,17.83848
+766,Visalia,12/03/2025,17.3,California,Visalia-W. Ashland Avenue,17.3,17.16679,16.31044,13.30197
+767,Visalia,12/04/2025,17.3,California,Visalia-W. Ashland Avenue,17.3,17.16679,16.31044,13.30197
+768,Visalia,12/05/2025,23.8,California,Visalia-W. Ashland Avenue,23.8,23.61674,22.43864,18.29982
+769,Visalia,12/06/2025,30.9,California,Visalia-W. Ashland Avenue,30.9,30.662069999999996,29.13252,23.75901
+770,Visalia,12/07/2025,28.9,California,Visalia-W. Ashland Avenue,28.9,28.677469999999996,27.24692,22.22121
+771,Visalia,12/08/2025,34.1,California,Visalia-W. Ashland Avenue,34.1,33.83743,32.14948,26.21949
+772,Visalia,12/09/2025,33.7,California,Visalia-W. Ashland Avenue,33.7,33.44051,31.772360000000003,25.91193
+773,Visalia,12/10/2025,18.1,California,Visalia-W. Ashland Avenue,18.1,17.960630000000002,17.06468,13.917090000000002
+774,Visalia,12/11/2025,15.8,California,Visalia-W. Ashland Avenue,15.8,15.67834,14.89624,12.148620000000001
+775,Visalia,12/12/2025,14.1,California,Visalia-W. Ashland Avenue,14.1,13.99143,13.293479999999999,10.84149
+776,Visalia,12/13/2025,11.0,California,Visalia-W. Ashland Avenue,11.0,10.9153,10.3708,8.4579
+777,Visalia,12/14/2025,12.5,California,Visalia-W. Ashland Avenue,12.5,12.403749999999999,11.785,9.61125
+778,Visalia,12/15/2025,11.6,California,Visalia-W. Ashland Avenue,11.6,11.510679999999999,10.93648,8.91924
+779,Visalia,12/16/2025,15.7,California,Visalia-W. Ashland Avenue,15.7,15.579109999999998,14.80196,12.07173
+780,Visalia,12/17/2025,15.5,California,Visalia-W. Ashland Avenue,15.5,15.38065,14.6134,11.917950000000001
+781,Visalia,12/18/2025,12.6,California,Visalia-W. Ashland Avenue,12.6,12.502979999999999,11.87928,9.68814
+782,Visalia,12/19/2025,16.7,California,Visalia-W. Ashland Avenue,16.7,16.57141,15.74476,12.840629999999999
+783,Visalia,12/20/2025,21.1,California,Visalia-W. Ashland Avenue,21.1,20.93753,19.89308,16.22379
+784,Visalia,12/21/2025,7.6,California,Visalia-W. Ashland Avenue,7.6,7.541479999999999,7.165279999999999,5.84364
+785,Visalia,12/22/2025,10.4,California,Visalia-W. Ashland Avenue,10.4,10.31992,9.80512,7.996560000000001
+786,Visalia,12/23/2025,12.1,California,Visalia-W. Ashland Avenue,12.1,12.006829999999999,11.407879999999999,9.30369
+787,Visalia,12/24/2025,5.2,California,Visalia-W. Ashland Avenue,5.2,5.15996,4.90256,3.9982800000000003
+788,Visalia,12/25/2025,3.5,California,Visalia-W. Ashland Avenue,3.5,3.4730499999999997,3.2998,2.69115
+789,Visalia,12/26/2025,3.4,California,Visalia-W. Ashland Avenue,3.4,3.37382,3.20552,2.61426
+790,Visalia,12/27/2025,8.0,California,Visalia-W. Ashland Avenue,8.0,7.9384,7.5424,6.1512
+791,Visalia,12/28/2025,9.8,California,Visalia-W. Ashland Avenue,9.8,9.724540000000001,9.23944,7.535220000000001
+792,Visalia,12/29/2025,16.6,California,Visalia-W. Ashland Avenue,16.6,16.47218,15.650480000000002,12.763740000000002
+793,Visalia,12/30/2025,18.8,California,Visalia-W. Ashland Avenue,18.8,18.65524,17.72464,14.45532
+794,Visalia,12/31/2025,25.0,California,Visalia-W. Ashland Avenue,25.0,24.807499999999997,23.57,19.2225
+795,Visalia,01/01/2025,36.8,California,Visalia-W. Ashland Avenue,36.8,36.516639999999995,34.69504,28.29552
+796,Visalia,01/07/2025,26.0,California,Visalia-W. Ashland Avenue,26.0,25.799799999999998,24.5128,19.991400000000002
+797,Visalia,01/13/2025,14.2,California,Visalia-W. Ashland Avenue,14.2,14.090659999999998,13.387759999999998,10.918379999999999
+798,Visalia,01/25/2025,15.3,California,Visalia-W. Ashland Avenue,15.3,15.18219,14.42484,11.764170000000002
+799,Visalia,01/31/2025,33.7,California,Visalia-W. Ashland Avenue,33.7,33.44051,31.772360000000003,25.91193
+800,Visalia,02/06/2025,5.3,California,Visalia-W. Ashland Avenue,5.3,5.259189999999999,4.99684,4.07517
+801,Visalia,02/12/2025,8.4,California,Visalia-W. Ashland Avenue,8.4,8.33532,7.91952,6.458760000000001
+802,Visalia,02/24/2025,13.6,California,Visalia-W. Ashland Avenue,13.6,13.49528,12.82208,10.45704
+803,Visalia,03/02/2025,3.0,California,Visalia-W. Ashland Avenue,3.0,2.9768999999999997,2.8284,2.3067
+804,Visalia,03/08/2025,12.2,California,Visalia-W. Ashland Avenue,12.2,12.10606,11.502159999999998,9.38058
+805,Visalia,03/12/2025,5.1,California,Visalia-W. Ashland Avenue,5.1,5.0607299999999995,4.80828,3.9213899999999997
+806,Visalia,03/14/2025,3.0,California,Visalia-W. Ashland Avenue,3.0,2.9768999999999997,2.8284,2.3067
+807,Visalia,03/20/2025,4.2,California,Visalia-W. Ashland Avenue,4.2,4.16766,3.95976,3.2293800000000004
+808,Visalia,03/26/2025,8.1,California,Visalia-W. Ashland Avenue,8.1,8.03763,7.636679999999999,6.22809
+809,Visalia,04/01/2025,3.2,California,Visalia-W. Ashland Avenue,3.2,3.17536,3.01696,2.4604800000000004
+810,Visalia,04/07/2025,7.8,California,Visalia-W. Ashland Avenue,7.8,7.73994,7.35384,5.99742
+811,Visalia,04/13/2025,8.5,California,Visalia-W. Ashland Avenue,8.5,8.43455,8.0138,6.53565
+812,Visalia,04/22/2025,9.0,California,Visalia-W. Ashland Avenue,9.0,8.9307,8.485199999999999,6.920100000000001
+813,Visalia,04/25/2025,6.4,California,Visalia-W. Ashland Avenue,6.4,6.35072,6.03392,4.920960000000001
+814,Visalia,05/01/2025,11.9,California,Visalia-W. Ashland Avenue,11.9,11.80837,11.21932,9.14991
+815,Visalia,05/07/2025,10.6,California,Visalia-W. Ashland Avenue,10.6,10.518379999999999,9.99368,8.15034
+816,Visalia,05/13/2025,4.9,California,Visalia-W. Ashland Avenue,4.9,4.8622700000000005,4.61972,3.7676100000000003
+817,Visalia,05/19/2025,10.0,California,Visalia-W. Ashland Avenue,10.0,9.923,9.427999999999999,7.689
+818,Visalia,05/25/2025,8.2,California,Visalia-W. Ashland Avenue,8.2,8.136859999999999,7.730959999999999,6.30498
+819,Visalia,06/04/2025,13.1,California,Visalia-W. Ashland Avenue,13.1,12.99913,12.350679999999999,10.07259
+820,Visalia,06/06/2025,10.5,California,Visalia-W. Ashland Avenue,10.5,10.41915,9.8994,8.073450000000001
+821,Visalia,06/12/2025,10.5,California,Visalia-W. Ashland Avenue,10.5,10.41915,9.8994,8.073450000000001
+822,Visalia,06/18/2025,14.7,California,Visalia-W. Ashland Avenue,14.7,14.586809999999998,13.85916,11.30283
+823,Visalia,06/24/2025,9.9,California,Visalia-W. Ashland Avenue,9.9,9.82377,9.33372,7.61211
+824,Visalia,06/30/2025,9.9,California,Visalia-W. Ashland Avenue,9.9,9.82377,9.33372,7.61211
+825,Visalia,07/06/2025,9.0,California,Visalia-W. Ashland Avenue,9.0,8.9307,8.485199999999999,6.920100000000001
+826,Visalia,07/12/2025,18.7,California,Visalia-W. Ashland Avenue,18.7,18.556009999999997,17.63036,14.37843
+827,Visalia,07/18/2025,7.7,California,Visalia-W. Ashland Avenue,7.7,7.6407099999999994,7.25956,5.92053
+828,Visalia,07/24/2025,6.6,California,Visalia-W. Ashland Avenue,6.6,6.54918,6.222479999999999,5.07474
+829,Visalia,07/30/2025,7.3,California,Visalia-W. Ashland Avenue,7.3,7.24379,6.88244,5.61297
+830,Visalia,08/05/2025,6.0,California,Visalia-W. Ashland Avenue,6.0,5.953799999999999,5.6568,4.6134
+831,Visalia,08/11/2025,12.6,California,Visalia-W. Ashland Avenue,12.6,12.502979999999999,11.87928,9.68814
+832,Visalia,08/17/2025,4.2,California,Visalia-W. Ashland Avenue,4.2,4.16766,3.95976,3.2293800000000004
+833,Visalia,08/23/2025,15.9,California,Visalia-W. Ashland Avenue,15.9,15.777569999999999,14.99052,12.22551
+834,Visalia,08/29/2025,12.8,California,Visalia-W. Ashland Avenue,12.8,12.70144,12.06784,9.841920000000002
+835,Visalia,09/04/2025,13.1,California,Visalia-W. Ashland Avenue,13.1,12.99913,12.350679999999999,10.07259
+836,Visalia,09/10/2025,4.5,California,Visalia-W. Ashland Avenue,4.5,4.46535,4.2425999999999995,3.4600500000000003
+837,Visalia,09/16/2025,14.1,California,Visalia-W. Ashland Avenue,14.1,13.99143,13.293479999999999,10.84149
+838,Visalia,09/22/2025,11.6,California,Visalia-W. Ashland Avenue,11.6,11.510679999999999,10.93648,8.91924
+839,Visalia,09/28/2025,7.1,California,Visalia-W. Ashland Avenue,7.1,7.045329999999999,6.693879999999999,5.4591899999999995
+840,Visalia,10/04/2025,8.0,California,Visalia-W. Ashland Avenue,8.0,7.9384,7.5424,6.1512
+841,Visalia,10/16/2025,11.2,California,Visalia-W. Ashland Avenue,11.2,11.11376,10.55936,8.61168
+842,Visalia,10/22/2025,16.3,California,Visalia-W. Ashland Avenue,16.3,16.17449,15.36764,12.53307
+843,Visalia,10/28/2025,16.5,California,Visalia-W. Ashland Avenue,16.5,16.37295,15.556199999999999,12.68685
+844,Visalia,11/03/2025,26.8,California,Visalia-W. Ashland Avenue,26.8,26.59364,25.26704,20.60652
+845,Visalia,11/09/2025,20.2,California,Visalia-W. Ashland Avenue,20.2,20.044459999999997,19.044559999999997,15.53178
+846,Visalia,11/20/2025,13.3,California,Visalia-W. Ashland Avenue,13.3,13.19759,12.53924,10.226370000000001
+847,Visalia,11/24/2025,25.8,California,Visalia-W. Ashland Avenue,25.8,25.60134,24.32424,19.83762
+848,Visalia,11/27/2025,32.3,California,Visalia-W. Ashland Avenue,32.3,32.051289999999995,30.452439999999996,24.835469999999997
+849,Visalia,12/03/2025,18.3,California,Visalia-W. Ashland Avenue,18.3,18.15909,17.25324,14.070870000000001
+850,Visalia,12/09/2025,34.7,California,Visalia-W. Ashland Avenue,34.7,34.43281,32.715160000000004,26.680830000000004
+851,Visalia,12/15/2025,15.0,California,Visalia-W. Ashland Avenue,15.0,14.8845,14.142,11.5335
+852,Visalia,12/21/2025,8.7,California,Visalia-W. Ashland Avenue,8.7,8.633009999999999,8.202359999999999,6.68943
+853,Visalia,01/01/2025,18.5,California,Porterville,18.5,18.35755,17.4418,14.22465
+854,Visalia,01/02/2025,19.7,California,Porterville,19.7,19.548309999999997,18.573159999999998,15.14733
+855,Visalia,01/03/2025,12.2,California,Porterville,12.2,12.10606,11.502159999999998,9.38058
+856,Visalia,01/04/2025,9.6,California,Porterville,9.6,9.526079999999999,9.05088,7.38144
+857,Visalia,01/05/2025,12.7,California,Porterville,12.7,12.60221,11.973559999999999,9.76503
+858,Visalia,01/06/2025,12.9,California,Porterville,12.9,12.80067,12.16212,9.91881
+859,Visalia,01/07/2025,22.3,California,Porterville,22.3,22.12829,21.02444,17.14647
+860,Visalia,01/08/2025,19.7,California,Porterville,19.7,19.548309999999997,18.573159999999998,15.14733
+861,Visalia,01/09/2025,18.4,California,Porterville,18.4,18.258319999999998,17.34752,14.14776
+862,Visalia,01/10/2025,8.3,California,Porterville,8.3,8.23609,7.825240000000001,6.381870000000001
+863,Visalia,01/11/2025,17.4,California,Porterville,17.4,17.266019999999997,16.404719999999998,13.37886
+864,Visalia,01/12/2025,10.6,California,Porterville,10.6,10.518379999999999,9.99368,8.15034
+865,Visalia,01/13/2025,10.2,California,Porterville,10.2,10.121459999999999,9.61656,7.842779999999999
+866,Visalia,01/14/2025,13.2,California,Porterville,13.2,13.09836,12.444959999999998,10.14948
+867,Visalia,01/15/2025,9.2,California,Porterville,9.2,9.129159999999999,8.67376,7.07388
+868,Visalia,01/16/2025,7.6,California,Porterville,7.6,7.541479999999999,7.165279999999999,5.84364
+869,Visalia,01/17/2025,14.6,California,Porterville,14.6,14.48758,13.76488,11.22594
+870,Visalia,01/18/2025,21.0,California,Porterville,21.0,20.8383,19.7988,16.146900000000002
+871,Visalia,01/19/2025,27.2,California,Porterville,27.2,26.99056,25.64416,20.91408
+872,Visalia,01/20/2025,28.5,California,Porterville,28.5,28.280549999999998,26.869799999999998,21.91365
+873,Visalia,01/21/2025,22.8,California,Porterville,22.8,22.62444,21.49584,17.530920000000002
+874,Visalia,01/22/2025,22.6,California,Porterville,22.6,22.42598,21.307280000000002,17.37714
+875,Visalia,01/23/2025,21.4,California,Porterville,21.4,21.235219999999998,20.175919999999998,16.45446
+876,Visalia,01/24/2025,11.1,California,Porterville,11.1,11.014529999999999,10.465079999999999,8.53479
+877,Visalia,01/25/2025,8.6,California,Porterville,8.6,8.53378,8.10808,6.61254
+878,Visalia,01/26/2025,8.1,California,Porterville,8.1,8.03763,7.636679999999999,6.22809
+879,Visalia,01/27/2025,7.1,California,Porterville,7.1,7.045329999999999,6.693879999999999,5.4591899999999995
+880,Visalia,01/28/2025,8.5,California,Porterville,8.5,8.43455,8.0138,6.53565
+881,Visalia,01/29/2025,11.2,California,Porterville,11.2,11.11376,10.55936,8.61168
+882,Visalia,01/30/2025,18.2,California,Porterville,18.2,18.059859999999997,17.15896,13.99398
+883,Visalia,01/31/2025,25.0,California,Porterville,25.0,24.807499999999997,23.57,19.2225
+884,Visalia,02/01/2025,17.7,California,Porterville,17.7,17.563709999999997,16.687559999999998,13.60953
+885,Visalia,02/02/2025,8.6,California,Porterville,8.6,8.53378,8.10808,6.61254
+886,Visalia,02/03/2025,7.4,California,Porterville,7.4,7.34302,6.97672,5.68986
+887,Visalia,02/04/2025,5.4,California,Porterville,5.4,5.35842,5.09112,4.1520600000000005
+888,Visalia,02/05/2025,4.5,California,Porterville,4.5,4.46535,4.2425999999999995,3.4600500000000003
+889,Visalia,02/06/2025,3.5,California,Porterville,3.5,3.4730499999999997,3.2998,2.69115
+890,Visalia,02/07/2025,4.5,California,Porterville,4.5,4.46535,4.2425999999999995,3.4600500000000003
+891,Visalia,02/08/2025,9.9,California,Porterville,9.9,9.82377,9.33372,7.61211
+892,Visalia,02/09/2025,13.0,California,Porterville,13.0,12.899899999999999,12.2564,9.995700000000001
+893,Visalia,02/10/2025,10.8,California,Porterville,10.8,10.71684,10.18224,8.304120000000001
+894,Visalia,02/11/2025,9.7,California,Porterville,9.7,9.625309999999999,9.145159999999999,7.45833
+895,Visalia,02/12/2025,8.2,California,Porterville,8.2,8.136859999999999,7.730959999999999,6.30498
+896,Visalia,02/13/2025,2.1,California,Porterville,2.1,2.08383,1.97988,1.6146900000000002
+897,Visalia,02/14/2025,5.3,California,Porterville,5.3,5.259189999999999,4.99684,4.07517
+898,Visalia,02/15/2025,6.1,California,Porterville,6.1,6.05303,5.751079999999999,4.69029
+899,Visalia,02/16/2025,9.4,California,Porterville,9.4,9.32762,8.86232,7.22766
+900,Visalia,02/17/2025,9.6,California,Porterville,9.6,9.526079999999999,9.05088,7.38144
+901,Visalia,02/18/2025,10.0,California,Porterville,10.0,9.923,9.427999999999999,7.689
+902,Visalia,02/19/2025,9.0,California,Porterville,9.0,8.9307,8.485199999999999,6.920100000000001
+903,Visalia,02/20/2025,9.8,California,Porterville,9.8,9.724540000000001,9.23944,7.535220000000001
+904,Visalia,02/21/2025,11.0,California,Porterville,11.0,10.9153,10.3708,8.4579
+905,Visalia,02/22/2025,12.8,California,Porterville,12.8,12.70144,12.06784,9.841920000000002
+906,Visalia,02/23/2025,11.3,California,Porterville,11.3,11.21299,10.653640000000001,8.68857
+907,Visalia,02/24/2025,11.0,California,Porterville,11.0,10.9153,10.3708,8.4579
+908,Visalia,02/25/2025,10.2,California,Porterville,10.2,10.121459999999999,9.61656,7.842779999999999
+909,Visalia,02/26/2025,10.2,California,Porterville,10.2,10.121459999999999,9.61656,7.842779999999999
+910,Visalia,02/27/2025,8.6,California,Porterville,8.6,8.53378,8.10808,6.61254
+911,Visalia,02/28/2025,11.7,California,Porterville,11.7,11.60991,11.030759999999999,8.996129999999999
+912,Visalia,03/01/2025,8.9,California,Porterville,8.9,8.83147,8.39092,6.843210000000001
+913,Visalia,03/02/2025,4.5,California,Porterville,4.5,4.46535,4.2425999999999995,3.4600500000000003
+914,Visalia,03/03/2025,4.0,California,Porterville,4.0,3.9692,3.7712,3.0756
+915,Visalia,03/04/2025,5.4,California,Porterville,5.4,5.35842,5.09112,4.1520600000000005
+916,Visalia,03/05/2025,7.0,California,Porterville,7.0,6.9460999999999995,6.5996,5.3823
+917,Visalia,03/06/2025,3.0,California,Porterville,3.0,2.9768999999999997,2.8284,2.3067
+918,Visalia,03/07/2025,4.0,California,Porterville,4.0,3.9692,3.7712,3.0756
+919,Visalia,03/08/2025,4.7,California,Porterville,4.7,4.66381,4.43116,3.61383
+920,Visalia,03/09/2025,5.3,California,Porterville,5.3,5.259189999999999,4.99684,4.07517
+921,Visalia,03/10/2025,6.4,California,Porterville,6.4,6.35072,6.03392,4.920960000000001
+922,Visalia,03/11/2025,4.6,California,Porterville,4.6,4.564579999999999,4.33688,3.53694
+923,Visalia,03/12/2025,4.8,California,Porterville,4.8,4.763039999999999,4.52544,3.69072
+924,Visalia,03/13/2025,3.0,California,Porterville,3.0,2.9768999999999997,2.8284,2.3067
+925,Visalia,03/14/2025,3.6,California,Porterville,3.6,3.57228,3.3940799999999998,2.76804
+926,Visalia,03/15/2025,7.7,California,Porterville,7.7,7.6407099999999994,7.25956,5.92053
+927,Visalia,03/16/2025,6.0,California,Porterville,6.0,5.953799999999999,5.6568,4.6134
+928,Visalia,03/17/2025,4.6,California,Porterville,4.6,4.564579999999999,4.33688,3.53694
+929,Visalia,03/18/2025,5.4,California,Porterville,5.4,5.35842,5.09112,4.1520600000000005
+930,Visalia,03/19/2025,6.3,California,Porterville,6.3,6.2514899999999995,5.93964,4.84407
+931,Visalia,03/20/2025,7.9,California,Porterville,7.9,7.83917,7.44812,6.0743100000000005
+932,Visalia,03/21/2025,7.7,California,Porterville,7.7,7.6407099999999994,7.25956,5.92053
+933,Visalia,03/22/2025,8.2,California,Porterville,8.2,8.136859999999999,7.730959999999999,6.30498
+934,Visalia,03/23/2025,9.6,California,Porterville,9.6,9.526079999999999,9.05088,7.38144
+935,Visalia,03/24/2025,11.1,California,Porterville,11.1,11.014529999999999,10.465079999999999,8.53479
+936,Visalia,03/25/2025,10.5,California,Porterville,10.5,10.41915,9.8994,8.073450000000001
+937,Visalia,03/26/2025,5.9,California,Porterville,5.9,5.85457,5.56252,4.536510000000001
+938,Visalia,03/27/2025,4.8,California,Porterville,4.8,4.763039999999999,4.52544,3.69072
+939,Visalia,03/28/2025,6.2,California,Porterville,6.2,6.15226,5.84536,4.767180000000001
+940,Visalia,03/29/2025,7.4,California,Porterville,7.4,7.34302,6.97672,5.68986
+941,Visalia,03/30/2025,4.9,California,Porterville,4.9,4.8622700000000005,4.61972,3.7676100000000003
+942,Visalia,03/31/2025,4.0,California,Porterville,4.0,3.9692,3.7712,3.0756
+943,Visalia,04/01/2025,5.0,California,Porterville,5.0,4.9615,4.7139999999999995,3.8445
+944,Visalia,04/02/2025,4.1,California,Porterville,4.1,4.068429999999999,3.8654799999999994,3.15249
+945,Visalia,04/03/2025,5.4,California,Porterville,5.4,5.35842,5.09112,4.1520600000000005
+946,Visalia,04/04/2025,6.2,California,Porterville,6.2,6.15226,5.84536,4.767180000000001
+947,Visalia,04/05/2025,7.7,California,Porterville,7.7,7.6407099999999994,7.25956,5.92053
+948,Visalia,04/06/2025,7.1,California,Porterville,7.1,7.045329999999999,6.693879999999999,5.4591899999999995
+949,Visalia,04/07/2025,8.7,California,Porterville,8.7,8.633009999999999,8.202359999999999,6.68943
+950,Visalia,04/08/2025,6.5,California,Porterville,6.5,6.449949999999999,6.1282,4.997850000000001
+951,Visalia,04/09/2025,4.0,California,Porterville,4.0,3.9692,3.7712,3.0756
+952,Visalia,04/12/2025,12.2,California,Porterville,12.2,12.10606,11.502159999999998,9.38058
+953,Visalia,04/13/2025,12.7,California,Porterville,12.7,12.60221,11.973559999999999,9.76503
+954,Visalia,04/14/2025,14.0,California,Porterville,14.0,13.892199999999999,13.1992,10.7646
+955,Visalia,04/15/2025,10.0,California,Porterville,10.0,9.923,9.427999999999999,7.689
+956,Visalia,04/16/2025,11.0,California,Porterville,11.0,10.9153,10.3708,8.4579
+957,Visalia,04/17/2025,8.6,California,Porterville,8.6,8.53378,8.10808,6.61254
+958,Visalia,04/18/2025,9.5,California,Porterville,9.5,9.42685,8.9566,7.30455
+959,Visalia,04/19/2025,9.1,California,Porterville,9.1,9.029929999999998,8.57948,6.99699
+960,Visalia,04/20/2025,11.3,California,Porterville,11.3,11.21299,10.653640000000001,8.68857
+961,Visalia,04/21/2025,12.4,California,Porterville,12.4,12.30452,11.69072,9.534360000000001
+962,Visalia,04/22/2025,9.2,California,Porterville,9.2,9.129159999999999,8.67376,7.07388
+963,Visalia,04/23/2025,8.2,California,Porterville,8.2,8.136859999999999,7.730959999999999,6.30498
+964,Visalia,04/24/2025,10.2,California,Porterville,10.2,10.121459999999999,9.61656,7.842779999999999
+965,Visalia,04/25/2025,7.9,California,Porterville,7.9,7.83917,7.44812,6.0743100000000005
+966,Visalia,04/26/2025,4.6,California,Porterville,4.6,4.564579999999999,4.33688,3.53694
+967,Visalia,04/27/2025,5.1,California,Porterville,5.1,5.0607299999999995,4.80828,3.9213899999999997
+968,Visalia,04/28/2025,8.6,California,Porterville,8.6,8.53378,8.10808,6.61254
+969,Visalia,04/29/2025,10.3,California,Porterville,10.3,10.220690000000001,9.710840000000001,7.919670000000001
+970,Visalia,04/30/2025,10.1,California,Porterville,10.1,10.022229999999999,9.522279999999999,7.76589
+971,Visalia,05/01/2025,9.6,California,Porterville,9.6,9.526079999999999,9.05088,7.38144
+972,Visalia,05/02/2025,11.5,California,Porterville,11.5,11.41145,10.8422,8.84235
+973,Visalia,05/03/2025,6.6,California,Porterville,6.6,6.54918,6.222479999999999,5.07474
+974,Visalia,05/04/2025,9.4,California,Porterville,9.4,9.32762,8.86232,7.22766
+975,Visalia,05/05/2025,9.5,California,Porterville,9.5,9.42685,8.9566,7.30455
+976,Visalia,05/06/2025,8.0,California,Porterville,8.0,7.9384,7.5424,6.1512
+977,Visalia,05/07/2025,9.3,California,Porterville,9.3,9.228390000000001,8.768040000000001,7.1507700000000005
+978,Visalia,05/08/2025,14.1,California,Porterville,14.1,13.99143,13.293479999999999,10.84149
+979,Visalia,05/09/2025,12.9,California,Porterville,12.9,12.80067,12.16212,9.91881
+980,Visalia,05/10/2025,11.6,California,Porterville,11.6,11.510679999999999,10.93648,8.91924
+981,Visalia,05/11/2025,8.0,California,Porterville,8.0,7.9384,7.5424,6.1512
+982,Visalia,05/12/2025,5.8,California,Porterville,5.8,5.7553399999999995,5.46824,4.45962
+983,Visalia,05/13/2025,5.4,California,Porterville,5.4,5.35842,5.09112,4.1520600000000005
+984,Visalia,05/14/2025,6.4,California,Porterville,6.4,6.35072,6.03392,4.920960000000001
+985,Visalia,05/15/2025,8.0,California,Porterville,8.0,7.9384,7.5424,6.1512
+986,Visalia,05/16/2025,9.0,California,Porterville,9.0,8.9307,8.485199999999999,6.920100000000001
+987,Visalia,05/17/2025,7.0,California,Porterville,7.0,6.9460999999999995,6.5996,5.3823
+988,Visalia,05/18/2025,6.5,California,Porterville,6.5,6.449949999999999,6.1282,4.997850000000001
+989,Visalia,05/19/2025,9.0,California,Porterville,9.0,8.9307,8.485199999999999,6.920100000000001
+990,Visalia,05/20/2025,7.8,California,Porterville,7.8,7.73994,7.35384,5.99742
+991,Visalia,05/21/2025,10.2,California,Porterville,10.2,10.121459999999999,9.61656,7.842779999999999
+992,Visalia,05/22/2025,10.4,California,Porterville,10.4,10.31992,9.80512,7.996560000000001
+993,Visalia,05/23/2025,5.5,California,Porterville,5.5,5.45765,5.1854,4.22895
+994,Visalia,05/24/2025,9.8,California,Porterville,9.8,9.724540000000001,9.23944,7.535220000000001
+995,Visalia,05/25/2025,8.9,California,Porterville,8.9,8.83147,8.39092,6.843210000000001
+996,Visalia,05/26/2025,6.3,California,Porterville,6.3,6.2514899999999995,5.93964,4.84407
+997,Visalia,05/27/2025,8.3,California,Porterville,8.3,8.23609,7.825240000000001,6.381870000000001
+998,Visalia,05/28/2025,10.3,California,Porterville,10.3,10.220690000000001,9.710840000000001,7.919670000000001
+999,Visalia,05/29/2025,9.2,California,Porterville,9.2,9.129159999999999,8.67376,7.07388
+1000,Visalia,05/30/2025,14.5,California,Porterville,14.5,14.388349999999999,13.6706,11.14905
+1001,Visalia,05/31/2025,13.9,California,Porterville,13.9,13.79297,13.10492,10.687710000000001
+1002,Visalia,06/01/2025,6.7,California,Porterville,6.7,6.64841,6.31676,5.15163
+1003,Visalia,06/02/2025,9.9,California,Porterville,9.9,9.82377,9.33372,7.61211
+1004,Visalia,06/03/2025,10.4,California,Porterville,10.4,10.31992,9.80512,7.996560000000001
+1005,Visalia,06/04/2025,12.7,California,Porterville,12.7,12.60221,11.973559999999999,9.76503
+1006,Visalia,06/05/2025,10.7,California,Porterville,10.7,10.617609999999999,10.087959999999999,8.22723
+1007,Visalia,06/06/2025,11.4,California,Porterville,11.4,11.31222,10.74792,8.765460000000001
+1008,Visalia,06/07/2025,12.1,California,Porterville,12.1,12.006829999999999,11.407879999999999,9.30369
+1009,Visalia,06/08/2025,10.2,California,Porterville,10.2,10.121459999999999,9.61656,7.842779999999999
+1010,Visalia,06/09/2025,12.2,California,Porterville,12.2,12.10606,11.502159999999998,9.38058
+1011,Visalia,06/10/2025,13.2,California,Porterville,13.2,13.09836,12.444959999999998,10.14948
+1012,Visalia,06/11/2025,10.0,California,Porterville,10.0,9.923,9.427999999999999,7.689
+1013,Visalia,06/12/2025,10.4,California,Porterville,10.4,10.31992,9.80512,7.996560000000001
+1014,Visalia,06/13/2025,9.4,California,Porterville,9.4,9.32762,8.86232,7.22766
+1015,Visalia,06/14/2025,7.8,California,Porterville,7.8,7.73994,7.35384,5.99742
+1016,Visalia,06/15/2025,9.0,California,Porterville,9.0,8.9307,8.485199999999999,6.920100000000001
+1017,Visalia,06/16/2025,9.5,California,Porterville,9.5,9.42685,8.9566,7.30455
+1018,Visalia,06/17/2025,9.8,California,Porterville,9.8,9.724540000000001,9.23944,7.535220000000001
+1019,Visalia,06/18/2025,15.1,California,Porterville,15.1,14.98373,14.236279999999999,11.61039
+1020,Visalia,06/19/2025,11.5,California,Porterville,11.5,11.41145,10.8422,8.84235
+1021,Visalia,06/20/2025,8.3,California,Porterville,8.3,8.23609,7.825240000000001,6.381870000000001
+1022,Visalia,06/21/2025,7.1,California,Porterville,7.1,7.045329999999999,6.693879999999999,5.4591899999999995
+1023,Visalia,06/22/2025,7.7,California,Porterville,7.7,7.6407099999999994,7.25956,5.92053
+1024,Visalia,06/23/2025,8.7,California,Porterville,8.7,8.633009999999999,8.202359999999999,6.68943
+1025,Visalia,06/24/2025,8.8,California,Porterville,8.8,8.732240000000001,8.29664,6.766320000000001
+1026,Visalia,06/25/2025,11.5,California,Porterville,11.5,11.41145,10.8422,8.84235
+1027,Visalia,06/26/2025,11.4,California,Porterville,11.4,11.31222,10.74792,8.765460000000001
+1028,Visalia,06/27/2025,11.2,California,Porterville,11.2,11.11376,10.55936,8.61168
+1029,Visalia,06/28/2025,10.7,California,Porterville,10.7,10.617609999999999,10.087959999999999,8.22723
+1030,Visalia,06/29/2025,7.0,California,Porterville,7.0,6.9460999999999995,6.5996,5.3823
+1031,Visalia,06/30/2025,7.9,California,Porterville,7.9,7.83917,7.44812,6.0743100000000005
+1032,Visalia,07/01/2025,9.4,California,Porterville,9.4,9.32762,8.86232,7.22766
+1033,Visalia,07/02/2025,9.7,California,Porterville,9.7,9.625309999999999,9.145159999999999,7.45833
+1034,Visalia,07/03/2025,11.7,California,Porterville,11.7,11.60991,11.030759999999999,8.996129999999999
+1035,Visalia,07/04/2025,9.8,California,Porterville,9.8,9.724540000000001,9.23944,7.535220000000001
+1036,Visalia,07/05/2025,9.4,California,Porterville,9.4,9.32762,8.86232,7.22766
+1037,Visalia,07/06/2025,9.4,California,Porterville,9.4,9.32762,8.86232,7.22766
+1038,Visalia,07/07/2025,9.7,California,Porterville,9.7,9.625309999999999,9.145159999999999,7.45833
+1039,Visalia,07/08/2025,9.2,California,Porterville,9.2,9.129159999999999,8.67376,7.07388
+1040,Visalia,07/09/2025,11.2,California,Porterville,11.2,11.11376,10.55936,8.61168
+1041,Visalia,07/10/2025,12.4,California,Porterville,12.4,12.30452,11.69072,9.534360000000001
+1042,Visalia,07/11/2025,13.2,California,Porterville,13.2,13.09836,12.444959999999998,10.14948
+1043,Visalia,07/12/2025,14.2,California,Porterville,14.2,14.090659999999998,13.387759999999998,10.918379999999999
+1044,Visalia,07/13/2025,14.2,California,Porterville,14.2,14.090659999999998,13.387759999999998,10.918379999999999
+1045,Visalia,07/14/2025,16.0,California,Porterville,16.0,15.8768,15.0848,12.3024
+1046,Visalia,07/15/2025,13.3,California,Porterville,13.3,13.19759,12.53924,10.226370000000001
+1047,Visalia,07/16/2025,8.5,California,Porterville,8.5,8.43455,8.0138,6.53565
+1048,Visalia,07/17/2025,9.4,California,Porterville,9.4,9.32762,8.86232,7.22766
+1049,Visalia,07/18/2025,11.5,California,Porterville,11.5,11.41145,10.8422,8.84235
+1050,Visalia,07/19/2025,12.7,California,Porterville,12.7,12.60221,11.973559999999999,9.76503
+1051,Visalia,07/20/2025,8.9,California,Porterville,8.9,8.83147,8.39092,6.843210000000001
+1052,Visalia,07/21/2025,6.8,California,Porterville,6.8,6.74764,6.41104,5.22852
+1053,Visalia,07/22/2025,5.3,California,Porterville,5.3,5.259189999999999,4.99684,4.07517
+1054,Visalia,07/23/2025,5.7,California,Porterville,5.7,5.65611,5.37396,4.3827300000000005
+1055,Visalia,07/24/2025,4.8,California,Porterville,4.8,4.763039999999999,4.52544,3.69072
+1056,Visalia,07/25/2025,6.5,California,Porterville,6.5,6.449949999999999,6.1282,4.997850000000001
+1057,Visalia,07/26/2025,6.0,California,Porterville,6.0,5.953799999999999,5.6568,4.6134
+1058,Visalia,07/27/2025,6.8,California,Porterville,6.8,6.74764,6.41104,5.22852
+1059,Visalia,07/28/2025,8.5,California,Porterville,8.5,8.43455,8.0138,6.53565
+1060,Visalia,07/29/2025,9.0,California,Porterville,9.0,8.9307,8.485199999999999,6.920100000000001
+1061,Visalia,07/30/2025,7.0,California,Porterville,7.0,6.9460999999999995,6.5996,5.3823
+1062,Visalia,07/31/2025,7.7,California,Porterville,7.7,7.6407099999999994,7.25956,5.92053
+1063,Visalia,08/01/2025,8.5,California,Porterville,8.5,8.43455,8.0138,6.53565
+1064,Visalia,08/02/2025,9.8,California,Porterville,9.8,9.724540000000001,9.23944,7.535220000000001
+1065,Visalia,08/03/2025,6.8,California,Porterville,6.8,6.74764,6.41104,5.22852
+1066,Visalia,08/04/2025,5.9,California,Porterville,5.9,5.85457,5.56252,4.536510000000001
+1067,Visalia,08/05/2025,6.7,California,Porterville,6.7,6.64841,6.31676,5.15163
+1068,Visalia,08/06/2025,9.2,California,Porterville,9.2,9.129159999999999,8.67376,7.07388
+1069,Visalia,08/07/2025,8.8,California,Porterville,8.8,8.732240000000001,8.29664,6.766320000000001
+1070,Visalia,08/08/2025,11.5,California,Porterville,11.5,11.41145,10.8422,8.84235
+1071,Visalia,08/09/2025,14.6,California,Porterville,14.6,14.48758,13.76488,11.22594
+1072,Visalia,08/10/2025,14.4,California,Porterville,14.4,14.28912,13.576319999999999,11.07216
+1073,Visalia,08/11/2025,13.1,California,Porterville,13.1,12.99913,12.350679999999999,10.07259
+1074,Visalia,08/12/2025,11.5,California,Porterville,11.5,11.41145,10.8422,8.84235
+1075,Visalia,08/13/2025,10.8,California,Porterville,10.8,10.71684,10.18224,8.304120000000001
+1076,Visalia,08/14/2025,11.0,California,Porterville,11.0,10.9153,10.3708,8.4579
+1077,Visalia,08/15/2025,9.9,California,Porterville,9.9,9.82377,9.33372,7.61211
+1078,Visalia,08/16/2025,6.2,California,Porterville,6.2,6.15226,5.84536,4.767180000000001
+1079,Visalia,08/17/2025,3.1,California,Porterville,3.1,3.07613,2.92268,2.3835900000000003
+1080,Visalia,08/18/2025,8.7,California,Porterville,8.7,8.633009999999999,8.202359999999999,6.68943
+1081,Visalia,08/19/2025,9.6,California,Porterville,9.6,9.526079999999999,9.05088,7.38144
+1082,Visalia,08/20/2025,9.5,California,Porterville,9.5,9.42685,8.9566,7.30455
+1083,Visalia,08/21/2025,10.9,California,Porterville,10.9,10.81607,10.27652,8.38101
+1084,Visalia,08/22/2025,14.1,California,Porterville,14.1,13.99143,13.293479999999999,10.84149
+1085,Visalia,08/23/2025,18.6,California,Porterville,18.6,18.456780000000002,17.536080000000002,14.301540000000001
+1086,Visalia,08/24/2025,16.7,California,Porterville,16.7,16.57141,15.74476,12.840629999999999
+1087,Visalia,08/25/2025,9.7,California,Porterville,9.7,9.625309999999999,9.145159999999999,7.45833
+1088,Visalia,08/26/2025,10.0,California,Porterville,10.0,9.923,9.427999999999999,7.689
+1089,Visalia,08/27/2025,9.1,California,Porterville,9.1,9.029929999999998,8.57948,6.99699
+1090,Visalia,08/28/2025,14.9,California,Porterville,14.9,14.78527,14.04772,11.456610000000001
+1091,Visalia,08/29/2025,11.5,California,Porterville,11.5,11.41145,10.8422,8.84235
+1092,Visalia,08/30/2025,13.2,California,Porterville,13.2,13.09836,12.444959999999998,10.14948
+1093,Visalia,08/31/2025,12.3,California,Porterville,12.3,12.20529,11.596440000000001,9.45747
+1094,Visalia,09/01/2025,12.2,California,Porterville,12.2,12.10606,11.502159999999998,9.38058
+1095,Visalia,09/02/2025,10.4,California,Porterville,10.4,10.31992,9.80512,7.996560000000001
+1096,Visalia,09/03/2025,16.7,California,Porterville,16.7,16.57141,15.74476,12.840629999999999
+1097,Visalia,09/04/2025,14.0,California,Porterville,14.0,13.892199999999999,13.1992,10.7646
+1098,Visalia,09/05/2025,12.8,California,Porterville,12.8,12.70144,12.06784,9.841920000000002
+1099,Visalia,09/06/2025,12.3,California,Porterville,12.3,12.20529,11.596440000000001,9.45747
+1100,Visalia,09/07/2025,7.9,California,Porterville,7.9,7.83917,7.44812,6.0743100000000005
+1101,Visalia,09/08/2025,8.8,California,Porterville,8.8,8.732240000000001,8.29664,6.766320000000001
+1102,Visalia,09/09/2025,6.2,California,Porterville,6.2,6.15226,5.84536,4.767180000000001
+1103,Visalia,09/10/2025,5.1,California,Porterville,5.1,5.0607299999999995,4.80828,3.9213899999999997
+1104,Visalia,09/11/2025,6.2,California,Porterville,6.2,6.15226,5.84536,4.767180000000001
+1105,Visalia,09/12/2025,9.4,California,Porterville,9.4,9.32762,8.86232,7.22766
+1106,Visalia,09/13/2025,14.1,California,Porterville,14.1,13.99143,13.293479999999999,10.84149
+1107,Visalia,09/14/2025,11.9,California,Porterville,11.9,11.80837,11.21932,9.14991
+1108,Visalia,09/15/2025,11.7,California,Porterville,11.7,11.60991,11.030759999999999,8.996129999999999
+1109,Visalia,09/16/2025,10.8,California,Porterville,10.8,10.71684,10.18224,8.304120000000001
+1110,Visalia,09/17/2025,10.8,California,Porterville,10.8,10.71684,10.18224,8.304120000000001
+1111,Visalia,09/18/2025,9.6,California,Porterville,9.6,9.526079999999999,9.05088,7.38144
+1112,Visalia,09/19/2025,21.0,California,Porterville,21.0,20.8383,19.7988,16.146900000000002
+1113,Visalia,09/20/2025,31.3,California,Porterville,31.3,31.058989999999998,29.50964,24.066570000000002
+1114,Visalia,09/21/2025,19.9,California,Porterville,19.9,19.746769999999998,18.761719999999997,15.30111
+1115,Visalia,09/22/2025,11.7,California,Porterville,11.7,11.60991,11.030759999999999,8.996129999999999
+1116,Visalia,09/23/2025,11.8,California,Porterville,11.8,11.70914,11.12504,9.073020000000001
+1117,Visalia,09/24/2025,8.5,California,Porterville,8.5,8.43455,8.0138,6.53565
+1118,Visalia,09/25/2025,8.6,California,Porterville,8.6,8.53378,8.10808,6.61254
+1119,Visalia,09/26/2025,10.5,California,Porterville,10.5,10.41915,9.8994,8.073450000000001
+1120,Visalia,09/27/2025,7.8,California,Porterville,7.8,7.73994,7.35384,5.99742
+1121,Visalia,09/28/2025,7.0,California,Porterville,7.0,6.9460999999999995,6.5996,5.3823
+1122,Visalia,09/29/2025,9.1,California,Porterville,9.1,9.029929999999998,8.57948,6.99699
+1123,Visalia,09/30/2025,8.6,California,Porterville,8.6,8.53378,8.10808,6.61254
+1124,Visalia,10/01/2025,7.0,California,Porterville,7.0,6.9460999999999995,6.5996,5.3823
+1125,Visalia,10/02/2025,9.7,California,Porterville,9.7,9.625309999999999,9.145159999999999,7.45833
+1126,Visalia,10/03/2025,5.0,California,Porterville,5.0,4.9615,4.7139999999999995,3.8445
+1127,Visalia,10/04/2025,4.6,California,Porterville,4.6,4.564579999999999,4.33688,3.53694
+1128,Visalia,10/05/2025,6.7,California,Porterville,6.7,6.64841,6.31676,5.15163
+1129,Visalia,10/06/2025,8.0,California,Porterville,8.0,7.9384,7.5424,6.1512
+1130,Visalia,10/07/2025,8.7,California,Porterville,8.7,8.633009999999999,8.202359999999999,6.68943
+1131,Visalia,10/08/2025,7.0,California,Porterville,7.0,6.9460999999999995,6.5996,5.3823
+1132,Visalia,10/09/2025,9.5,California,Porterville,9.5,9.42685,8.9566,7.30455
+1133,Visalia,10/10/2025,11.0,California,Porterville,11.0,10.9153,10.3708,8.4579
+1134,Visalia,10/11/2025,5.9,California,Porterville,5.9,5.85457,5.56252,4.536510000000001
+1135,Visalia,10/12/2025,5.4,California,Porterville,5.4,5.35842,5.09112,4.1520600000000005
+1136,Visalia,10/13/2025,3.5,California,Porterville,3.5,3.4730499999999997,3.2998,2.69115
+1137,Visalia,10/14/2025,3.2,California,Porterville,3.2,3.17536,3.01696,2.4604800000000004
+1138,Visalia,10/15/2025,4.8,California,Porterville,4.8,4.763039999999999,4.52544,3.69072
+1139,Visalia,10/16/2025,11.3,California,Porterville,11.3,11.21299,10.653640000000001,8.68857
+1140,Visalia,10/17/2025,18.8,California,Porterville,18.8,18.65524,17.72464,14.45532
+1141,Visalia,10/18/2025,16.5,California,Porterville,16.5,16.37295,15.556199999999999,12.68685
+1142,Visalia,10/19/2025,18.4,California,Porterville,18.4,18.258319999999998,17.34752,14.14776
+1143,Visalia,10/20/2025,19.0,California,Porterville,19.0,18.8537,17.9132,14.6091
+1144,Visalia,10/21/2025,27.4,California,Porterville,27.4,27.189019999999996,25.83272,21.06786
+1145,Visalia,10/22/2025,10.5,California,Porterville,10.5,10.41915,9.8994,8.073450000000001
+1146,Visalia,10/23/2025,12.7,California,Porterville,12.7,12.60221,11.973559999999999,9.76503
+1147,Visalia,10/24/2025,12.5,California,Porterville,12.5,12.403749999999999,11.785,9.61125
+1148,Visalia,10/25/2025,17.4,California,Porterville,17.4,17.266019999999997,16.404719999999998,13.37886
+1149,Visalia,10/26/2025,12.2,California,Porterville,12.2,12.10606,11.502159999999998,9.38058
+1150,Visalia,10/27/2025,9.5,California,Porterville,9.5,9.42685,8.9566,7.30455
+1151,Visalia,10/28/2025,13.8,California,Porterville,13.8,13.69374,13.01064,10.61082
+1152,Visalia,10/29/2025,15.7,California,Porterville,15.7,15.579109999999998,14.80196,12.07173
+1153,Visalia,10/30/2025,16.2,California,Porterville,16.2,16.07526,15.273359999999998,12.45618
+1154,Visalia,10/31/2025,20.9,California,Porterville,20.9,20.739069999999998,19.70452,16.07001
+1155,Visalia,11/01/2025,24.2,California,Porterville,24.2,24.013659999999998,22.815759999999997,18.60738
+1156,Visalia,11/02/2025,21.6,California,Porterville,21.6,21.43368,20.36448,16.608240000000002
+1157,Visalia,11/03/2025,13.6,California,Porterville,13.6,13.49528,12.82208,10.45704
+1158,Visalia,11/04/2025,12.0,California,Porterville,12.0,11.907599999999999,11.3136,9.2268
+1159,Visalia,11/05/2025,5.7,California,Porterville,5.7,5.65611,5.37396,4.3827300000000005
+1160,Visalia,11/06/2025,5.8,California,Porterville,5.8,5.7553399999999995,5.46824,4.45962
+1161,Visalia,11/07/2025,8.3,California,Porterville,8.3,8.23609,7.825240000000001,6.381870000000001
+1162,Visalia,11/08/2025,7.7,California,Porterville,7.7,7.6407099999999994,7.25956,5.92053
+1163,Visalia,11/09/2025,9.0,California,Porterville,9.0,8.9307,8.485199999999999,6.920100000000001
+1164,Visalia,11/10/2025,10.2,California,Porterville,10.2,10.121459999999999,9.61656,7.842779999999999
+1165,Visalia,11/11/2025,13.5,California,Porterville,13.5,13.396049999999999,12.7278,10.38015
+1166,Visalia,11/12/2025,10.1,California,Porterville,10.1,10.022229999999999,9.522279999999999,7.76589
+1167,Visalia,11/13/2025,12.5,California,Porterville,12.5,12.403749999999999,11.785,9.61125
+1168,Visalia,11/14/2025,6.0,California,Porterville,6.0,5.953799999999999,5.6568,4.6134
+1169,Visalia,11/15/2025,5.7,California,Porterville,5.7,5.65611,5.37396,4.3827300000000005
+1170,Visalia,11/16/2025,1.9,California,Porterville,1.9,1.8853699999999998,1.7913199999999998,1.46091
+1171,Visalia,11/17/2025,2.0,California,Porterville,2.0,1.9846,1.8856,1.5378
+1172,Visalia,11/18/2025,3.1,California,Porterville,3.1,3.07613,2.92268,2.3835900000000003
+1173,Visalia,11/19/2025,5.0,California,Porterville,5.0,4.9615,4.7139999999999995,3.8445
+1174,Visalia,11/20/2025,5.0,California,Porterville,5.0,4.9615,4.7139999999999995,3.8445
+1175,Visalia,11/21/2025,11.3,California,Porterville,11.3,11.21299,10.653640000000001,8.68857
+1176,Visalia,11/22/2025,11.4,California,Porterville,11.4,11.31222,10.74792,8.765460000000001
+1177,Visalia,11/23/2025,10.0,California,Porterville,10.0,9.923,9.427999999999999,7.689
+1178,Visalia,11/24/2025,14.1,California,Porterville,14.1,13.99143,13.293479999999999,10.84149
+1179,Visalia,11/25/2025,14.4,California,Porterville,14.4,14.28912,13.576319999999999,11.07216
+1180,Visalia,11/26/2025,15.1,California,Porterville,15.1,14.98373,14.236279999999999,11.61039
+1181,Visalia,11/27/2025,16.0,California,Porterville,16.0,15.8768,15.0848,12.3024
+1182,Visalia,11/28/2025,17.8,California,Porterville,17.8,17.66294,16.78184,13.686420000000002
+1183,Visalia,11/29/2025,12.4,California,Porterville,12.4,12.30452,11.69072,9.534360000000001
+1184,Visalia,11/30/2025,17.7,California,Porterville,17.7,17.563709999999997,16.687559999999998,13.60953
+1185,Visalia,12/01/2025,18.4,California,Porterville,18.4,18.258319999999998,17.34752,14.14776
+1186,Visalia,12/02/2025,17.2,California,Porterville,17.2,17.06756,16.21616,13.22508
+1187,Visalia,12/03/2025,11.7,California,Porterville,11.7,11.60991,11.030759999999999,8.996129999999999
+1188,Visalia,12/04/2025,12.6,California,Porterville,12.6,12.502979999999999,11.87928,9.68814
+1189,Visalia,12/05/2025,21.8,California,Porterville,21.8,21.63214,20.55304,16.76202
+1190,Visalia,12/06/2025,22.4,California,Porterville,22.4,22.22752,21.11872,17.22336
+1191,Visalia,12/07/2025,21.7,California,Porterville,21.7,21.532909999999998,20.458759999999998,16.68513
+1192,Visalia,12/08/2025,21.8,California,Porterville,21.8,21.63214,20.55304,16.76202
+1193,Visalia,12/09/2025,15.6,California,Porterville,15.6,15.47988,14.70768,11.99484
+1194,Visalia,12/10/2025,4.3,California,Porterville,4.3,4.26689,4.05404,3.30627
+1195,Visalia,12/11/2025,4.3,California,Porterville,4.3,4.26689,4.05404,3.30627
+1196,Visalia,12/12/2025,5.9,California,Porterville,5.9,5.85457,5.56252,4.536510000000001
+1197,Visalia,12/13/2025,5.7,California,Porterville,5.7,5.65611,5.37396,4.3827300000000005
+1198,Visalia,12/14/2025,7.0,California,Porterville,7.0,6.9460999999999995,6.5996,5.3823
+1199,Visalia,12/15/2025,7.0,California,Porterville,7.0,6.9460999999999995,6.5996,5.3823
+1200,Visalia,12/16/2025,9.4,California,Porterville,9.4,9.32762,8.86232,7.22766
+1201,Visalia,12/17/2025,8.1,California,Porterville,8.1,8.03763,7.636679999999999,6.22809
+1202,Visalia,12/18/2025,11.2,California,Porterville,11.2,11.11376,10.55936,8.61168
+1203,Visalia,12/19/2025,12.7,California,Porterville,12.7,12.60221,11.973559999999999,9.76503
+1204,Visalia,12/20/2025,9.3,California,Porterville,9.3,9.228390000000001,8.768040000000001,7.1507700000000005
+1205,Visalia,12/21/2025,5.4,California,Porterville,5.4,5.35842,5.09112,4.1520600000000005
+1206,Visalia,12/22/2025,5.5,California,Porterville,5.5,5.45765,5.1854,4.22895
+1207,Visalia,12/23/2025,7.2,California,Porterville,7.2,7.14456,6.7881599999999995,5.53608
+1208,Visalia,12/24/2025,3.1,California,Porterville,3.1,3.07613,2.92268,2.3835900000000003
+1209,Visalia,12/25/2025,3.5,California,Porterville,3.5,3.4730499999999997,3.2998,2.69115
+1210,Visalia,12/26/2025,2.1,California,Porterville,2.1,2.08383,1.97988,1.6146900000000002
+1211,Visalia,12/27/2025,3.8,California,Porterville,3.8,3.7707399999999995,3.5826399999999996,2.92182
+1212,Visalia,12/28/2025,9.5,California,Porterville,9.5,9.42685,8.9566,7.30455
+1213,Visalia,12/29/2025,9.7,California,Porterville,9.7,9.625309999999999,9.145159999999999,7.45833
+1214,Visalia,12/30/2025,12.5,California,Porterville,12.5,12.403749999999999,11.785,9.61125
+1215,Visalia,12/31/2025,20.4,California,Porterville,20.4,20.242919999999998,19.23312,15.685559999999999
